@@ -3,7 +3,6 @@ node_modules/
 
 # Local environment files (contains GEMINI_API_KEY)
 .env
-firebase-config.js
 
 # Firebase Admin Service Account Key (DANGEROUS if leaked!)
 serviceAccountKey.json
