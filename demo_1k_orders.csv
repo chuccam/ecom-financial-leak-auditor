@@ -1,0 +1,1001 @@
+Order ID,Product Name,SKU,Quantity,Product Price,Shipping Fee Paid by Customer,Actual Shipping Fee Charged by Platform,Platform Commission Fee,Voucher Discount,Payout Amount,Status
+ORD-2026-0001,Noise Cancelling Headphones,HDP-008,1,129.99,3.7,3.7,6.5,10,117.19,Completed
+ORD-2026-0002,Portable Power Bank 20000mAh,PWR-007,3,119.97,6.3,6.3,6,0,120.27,Completed
+ORD-2026-0003,Premium Wireless Earbuds,EAR-001,1,59.99,7.3,7.3,3,0,64.29,Completed
+ORD-2026-0004,Fast Charging Cable Type-C,CAB-005,1,19.99,12.9,12.9,1,0,31.89,Completed
+ORD-2026-0005,Waterproof Sports Smartwatch,WTC-006,2,159.98,12.9,12.9,8,0,164.88,Completed
+ORD-2026-0006,Fast Charging Cable Type-C,CAB-005,1,19.99,9.6,9.6,1,0,28.59,Completed
+ORD-2026-0007,Silicone Phone Case iPhone 15,CAS-009,2,29.98,9.2,9.2,1.5,0,37.68,Completed
+ORD-2026-0008,Waterproof Sports Smartwatch,WTC-006,1,79.99,7.1,7.1,4,0,83.09,Completed
+ORD-2026-0009,Adjustable Laptop Stand,STD-010,1,34.99,9.1,9.1,1.75,0,42.34,Completed
+ORD-2026-0010,Premium Wireless Earbuds,EAR-001,1,59.99,4.9,4.9,15,0,49.89,Completed
+ORD-2026-0011,Portable Power Bank 20000mAh,PWR-007,1,39.99,8.3,8.3,2,0,46.29,Completed
+ORD-2026-0012,Adjustable Laptop Stand,STD-010,1,34.99,10.5,10.5,1.75,5,38.74,Completed
+ORD-2026-0013,Portable Power Bank 20000mAh,PWR-007,2,79.98,10.9,10.9,4,10,76.88,Completed
+ORD-2026-0014,Mechanical Gaming Keyboard,KEY-003,2,179.98,3.8,3.8,9,0,174.78,Completed
+ORD-2026-0015,Silicone Phone Case iPhone 15,CAS-009,1,14.99,12.4,12.4,0.75,10,16.64,Completed
+ORD-2026-0016,Portable Power Bank 20000mAh,PWR-007,1,39.99,4.4,4.4,2,10,32.39,Completed
+ORD-2026-0017,Premium Wireless Earbuds,EAR-001,1,59.99,4.1,4.1,3,0,61.09,Completed
+ORD-2026-0018,Ultra-Wide USB-C Monitor,MON-004,1,299.99,7.9,7.9,15,0,292.89,Completed
+ORD-2026-0019,Fast Charging Cable Type-C,CAB-005,1,19.99,9.7,9.7,1,0,28.69,Completed
+ORD-2026-0020,Portable Power Bank 20000mAh,PWR-007,1,39.99,12.8,12.8,2,0,50.79,Completed
+ORD-2026-0021,Adjustable Laptop Stand,STD-010,1,34.99,9,9,1.75,0,42.24,Completed
+ORD-2026-0022,Mechanical Gaming Keyboard,KEY-003,1,89.99,12.9,12.9,4.5,0,98.39,Completed
+ORD-2026-0023,Premium Wireless Earbuds,EAR-001,1,59.99,4.4,4.4,3,5,56.39,Completed
+ORD-2026-0024,Fast Charging Cable Type-C,CAB-005,1,19.99,8.7,8.7,1,0,27.69,Completed
+ORD-2026-0025,Ergonomic Office Chair,CHR-002,1,149.99,11,22.05,7.5,5,148.49,Completed
+ORD-2026-0026,Noise Cancelling Headphones,HDP-008,1,129.99,3.6,3.6,6.5,10,117.09,Completed
+ORD-2026-0027,Silicone Phone Case iPhone 15,CAS-009,1,14.99,10.7,19.64,0.75,0,24.94,Completed
+ORD-2026-0028,Waterproof Sports Smartwatch,WTC-006,1,79.99,9.1,22.35,4,10,75.09,Completed
+ORD-2026-0029,Silicone Phone Case iPhone 15,CAS-009,1,14.99,5.4,5.4,0.75,10,9.64,Completed
+ORD-2026-0030,Adjustable Laptop Stand,STD-010,1,34.99,3.9,3.9,1.75,0,37.14,Completed
+ORD-2026-0031,Ultra-Wide USB-C Monitor,MON-004,1,299.99,10.7,10.7,15,0,295.69,Completed
+ORD-2026-0032,Portable Power Bank 20000mAh,PWR-007,1,39.99,11.5,11.5,2,0,49.49,Completed
+ORD-2026-0033,Adjustable Laptop Stand,STD-010,1,34.99,3.6,3.6,1.75,0,36.84,Completed
+ORD-2026-0034,Ergonomic Office Chair,CHR-002,1,149.99,5.3,5.3,7.5,0,147.79,Completed
+ORD-2026-0035,Waterproof Sports Smartwatch,WTC-006,1,79.99,10.1,10.1,4,0,86.09,Completed
+ORD-2026-0036,Premium Wireless Earbuds,EAR-001,1,59.99,3.5,3.5,3,0,60.49,Completed
+ORD-2026-0037,Noise Cancelling Headphones,HDP-008,1,129.99,10.1,10.1,6.5,0,133.59,Completed
+ORD-2026-0038,Ergonomic Office Chair,CHR-002,1,149.99,3.7,3.7,7.5,10,136.19,Completed
+ORD-2026-0039,Noise Cancelling Headphones,HDP-008,1,129.99,12.8,12.8,6.5,10,126.29,Completed
+ORD-2026-0040,Ergonomic Office Chair,CHR-002,1,149.99,4.6,10.72,7.5,0,147.09,Completed
+ORD-2026-0041,Fast Charging Cable Type-C,CAB-005,1,19.99,11.9,11.9,1,0,30.89,Completed
+ORD-2026-0042,Mechanical Gaming Keyboard,KEY-003,1,89.99,11.4,11.4,4.5,0,96.89,Completed
+ORD-2026-0043,Noise Cancelling Headphones,HDP-008,1,129.99,12.9,12.9,6.5,0,136.39,Completed
+ORD-2026-0044,Waterproof Sports Smartwatch,WTC-006,1,79.99,3.6,3.6,4,0,79.59,Completed
+ORD-2026-0045,Fast Charging Cable Type-C,CAB-005,1,19.99,9.8,9.8,1,0,28.79,Completed
+ORD-2026-0046,Adjustable Laptop Stand,STD-010,1,34.99,5.2,5.2,1.75,0,38.44,Completed
+ORD-2026-0047,Noise Cancelling Headphones,HDP-008,1,129.99,5.1,5.1,6.5,0,128.59,Completed
+ORD-2026-0048,Portable Power Bank 20000mAh,PWR-007,1,39.99,10.9,10.9,2,5,43.89,Completed
+ORD-2026-0049,Silicone Phone Case iPhone 15,CAS-009,1,14.99,6.8,6.8,0.75,0,21.04,Completed
+ORD-2026-0050,Ultra-Wide USB-C Monitor,MON-004,1,299.99,8.7,8.7,15,0,293.69,Completed
+ORD-2026-0051,Ergonomic Office Chair,CHR-002,1,149.99,11.3,25.29,7.5,5,148.79,Completed
+ORD-2026-0052,Noise Cancelling Headphones,HDP-008,1,129.99,8.3,8.3,6.5,0,131.79,Completed
+ORD-2026-0053,Portable Power Bank 20000mAh,PWR-007,3,119.97,9.7,9.7,6,5,118.67,Completed
+ORD-2026-0054,Silicone Phone Case iPhone 15,CAS-009,1,14.99,12.6,12.6,0.75,5,21.84,Completed
+ORD-2026-0055,Noise Cancelling Headphones,HDP-008,1,129.99,8.8,8.8,6.5,0,132.29,Completed
+ORD-2026-0056,Ultra-Wide USB-C Monitor,MON-004,2,599.98,10.6,10.6,30,0,580.58,Completed
+ORD-2026-0057,Ergonomic Office Chair,CHR-002,1,149.99,3.1,3.1,7.5,0,145.59,Completed
+ORD-2026-0058,Noise Cancelling Headphones,HDP-008,1,129.99,10.5,10.5,6.5,0,133.99,Completed
+ORD-2026-0059,Silicone Phone Case iPhone 15,CAS-009,1,14.99,4.7,4.7,0.75,0,18.94,Completed
+ORD-2026-0060,Noise Cancelling Headphones,HDP-008,1,129.99,9,9,6.5,0,132.49,Completed
+ORD-2026-0061,Mechanical Gaming Keyboard,KEY-003,1,89.99,3.5,3.5,4.5,0,88.99,Completed
+ORD-2026-0062,Adjustable Laptop Stand,STD-010,1,34.99,6.1,6.1,1.75,0,39.34,Completed
+ORD-2026-0063,Portable Power Bank 20000mAh,PWR-007,1,39.99,5.2,5.2,2,0,43.19,Completed
+ORD-2026-0064,Ultra-Wide USB-C Monitor,MON-004,1,299.99,11.5,11.5,15,0,296.49,Completed
+ORD-2026-0065,Premium Wireless Earbuds,EAR-001,1,59.99,8.9,8.9,3,10,55.89,Completed
+ORD-2026-0066,Mechanical Gaming Keyboard,KEY-003,1,89.99,12.8,12.8,4.5,0,98.29,Completed
+ORD-2026-0067,Fast Charging Cable Type-C,CAB-005,1,19.99,12.7,12.7,1,10,21.69,Completed
+ORD-2026-0068,Portable Power Bank 20000mAh,PWR-007,1,39.99,8.3,8.3,2,0,46.29,Completed
+ORD-2026-0069,Noise Cancelling Headphones,HDP-008,1,129.99,10.5,10.5,6.5,0,133.99,Completed
+ORD-2026-0070,Fast Charging Cable Type-C,CAB-005,1,19.99,3.8,3.8,1,0,22.79,Completed
+ORD-2026-0071,Adjustable Laptop Stand,STD-010,1,34.99,11.8,11.8,1.75,0,45.04,Completed
+ORD-2026-0072,Premium Wireless Earbuds,EAR-001,1,59.99,12.5,12.5,3,0,69.49,Completed
+ORD-2026-0073,Portable Power Bank 20000mAh,PWR-007,1,39.99,8.9,8.9,2,5,41.89,Completed
+ORD-2026-0074,Adjustable Laptop Stand,STD-010,1,34.99,6.3,17.18,1.75,0,39.54,Completed
+ORD-2026-0075,Silicone Phone Case iPhone 15,CAS-009,1,14.99,3.3,3.3,0.75,0,17.54,Completed
+ORD-2026-0076,Adjustable Laptop Stand,STD-010,1,34.99,4.5,4.5,1.75,0,37.74,Completed
+ORD-2026-0077,Ergonomic Office Chair,CHR-002,1,149.99,12.2,12.2,7.5,0,154.69,Completed
+ORD-2026-0078,Fast Charging Cable Type-C,CAB-005,1,19.99,9.4,9.4,1,0,28.39,Completed
+ORD-2026-0079,Noise Cancelling Headphones,HDP-008,1,129.99,10.3,10.3,6.5,0,133.79,Completed
+ORD-2026-0080,Portable Power Bank 20000mAh,PWR-007,1,39.99,3.8,3.8,2,0,41.79,Completed
+ORD-2026-0081,Ultra-Wide USB-C Monitor,MON-004,3,899.97,3.1,3.1,45,0,858.07,Completed
+ORD-2026-0082,Premium Wireless Earbuds,EAR-001,1,59.99,9.8,9.8,3,0,66.79,Completed
+ORD-2026-0083,Noise Cancelling Headphones,HDP-008,1,129.99,12.8,25.55,6.5,10,126.29,Completed
+ORD-2026-0084,Portable Power Bank 20000mAh,PWR-007,1,39.99,5.5,5.5,2,0,43.49,Completed
+ORD-2026-0085,Fast Charging Cable Type-C,CAB-005,1,19.99,8.2,8.2,1,0,27.19,Completed
+ORD-2026-0086,Mechanical Gaming Keyboard,KEY-003,1,89.99,4.2,4.2,4.5,0,89.69,Completed
+ORD-2026-0087,Ergonomic Office Chair,CHR-002,2,299.98,12.5,12.5,15,10,287.48,Completed
+ORD-2026-0088,Waterproof Sports Smartwatch,WTC-006,1,79.99,3.9,3.9,4,0,79.89,Completed
+ORD-2026-0089,Silicone Phone Case iPhone 15,CAS-009,1,14.99,10,10,0.75,10,14.24,Completed
+ORD-2026-0090,Waterproof Sports Smartwatch,WTC-006,1,79.99,6.4,6.4,4,0,82.39,Completed
+ORD-2026-0091,Portable Power Bank 20000mAh,PWR-007,1,39.99,12.3,12.3,2,0,50.29,Completed
+ORD-2026-0092,Mechanical Gaming Keyboard,KEY-003,1,89.99,12.1,12.1,4.5,0,97.59,Completed
+ORD-2026-0093,Fast Charging Cable Type-C,CAB-005,1,19.99,4.9,4.9,1,0,23.89,Completed
+ORD-2026-0094,Ergonomic Office Chair,CHR-002,1,149.99,7.2,14.23,7.5,5,144.69,Completed
+ORD-2026-0095,Fast Charging Cable Type-C,CAB-005,1,19.99,11.5,11.5,1,0,30.49,Completed
+ORD-2026-0096,Fast Charging Cable Type-C,CAB-005,1,19.99,4.2,4.2,1,10,13.19,Completed
+ORD-2026-0097,Fast Charging Cable Type-C,CAB-005,1,19.99,10.8,10.8,1,0,29.79,Completed
+ORD-2026-0098,Ultra-Wide USB-C Monitor,MON-004,1,299.99,12.3,24.71,15,0,297.29,Completed
+ORD-2026-0099,Waterproof Sports Smartwatch,WTC-006,1,79.99,10.9,10.9,4,10,76.89,Completed
+ORD-2026-0100,Noise Cancelling Headphones,HDP-008,1,129.99,11.6,11.6,6.5,0,135.09,Completed
+ORD-2026-0101,Waterproof Sports Smartwatch,WTC-006,1,79.99,12.6,12.6,4,0,88.59,Completed
+ORD-2026-0102,Waterproof Sports Smartwatch,WTC-006,1,79.99,11.1,11.1,4,0,87.09,Completed
+ORD-2026-0103,Fast Charging Cable Type-C,CAB-005,1,19.99,10.2,19.63,1,0,29.19,Completed
+ORD-2026-0104,Adjustable Laptop Stand,STD-010,1,34.99,3.8,3.8,1.75,5,32.04,Completed
+ORD-2026-0105,Portable Power Bank 20000mAh,PWR-007,1,39.99,10.6,16.83,2,0,48.59,Completed
+ORD-2026-0106,Waterproof Sports Smartwatch,WTC-006,1,79.99,4.9,4.9,4,0,80.89,Completed
+ORD-2026-0107,Adjustable Laptop Stand,STD-010,1,34.99,13,13,1.75,0,46.24,Completed
+ORD-2026-0108,Adjustable Laptop Stand,STD-010,1,34.99,9.8,9.8,1.75,0,43.04,Completed
+ORD-2026-0109,Adjustable Laptop Stand,STD-010,1,34.99,3.5,3.5,1.75,0,36.74,Completed
+ORD-2026-0110,Fast Charging Cable Type-C,CAB-005,1,19.99,3.1,3.1,1,5,17.09,Completed
+ORD-2026-0111,Ultra-Wide USB-C Monitor,MON-004,2,599.98,8,8,30,0,577.98,Completed
+ORD-2026-0112,Ergonomic Office Chair,CHR-002,3,449.97,3.1,17.39,22.5,5,425.57,Completed
+ORD-2026-0113,Waterproof Sports Smartwatch,WTC-006,1,79.99,3.2,3.2,4,10,69.19,Completed
+ORD-2026-0114,Noise Cancelling Headphones,HDP-008,1,129.99,4.8,4.8,6.5,0,128.29,Completed
+ORD-2026-0115,Fast Charging Cable Type-C,CAB-005,1,19.99,7.8,7.8,1,0,26.79,Completed
+ORD-2026-0116,Mechanical Gaming Keyboard,KEY-003,1,89.99,11.3,11.3,4.5,0,96.79,Completed
+ORD-2026-0117,Adjustable Laptop Stand,STD-010,1,34.99,5.3,5.3,1.75,0,38.54,Completed
+ORD-2026-0118,Fast Charging Cable Type-C,CAB-005,1,19.99,9.8,9.8,1,0,28.79,Completed
+ORD-2026-0119,Ultra-Wide USB-C Monitor,MON-004,2,599.98,9.3,9.3,30,0,579.28,Completed
+ORD-2026-0120,Adjustable Laptop Stand,STD-010,1,34.99,3.5,3.5,1.75,5,31.74,Completed
+ORD-2026-0121,Ergonomic Office Chair,CHR-002,1,149.99,10.8,10.8,7.5,10,143.29,Completed
+ORD-2026-0122,Silicone Phone Case iPhone 15,CAS-009,1,14.99,12.2,24.36,0.75,0,26.44,Completed
+ORD-2026-0123,Silicone Phone Case iPhone 15,CAS-009,1,14.99,6.2,6.2,0.75,0,20.44,Completed
+ORD-2026-0124,Mechanical Gaming Keyboard,KEY-003,1,89.99,3.1,3.1,4.5,0,88.59,Completed
+ORD-2026-0125,Silicone Phone Case iPhone 15,CAS-009,1,14.99,10,10,0.75,0,24.24,Completed
+ORD-2026-0126,Portable Power Bank 20000mAh,PWR-007,1,39.99,3.6,3.6,2,5,36.59,Completed
+ORD-2026-0127,Ultra-Wide USB-C Monitor,MON-004,1,299.99,4.8,4.8,15,10,279.79,Completed
+ORD-2026-0128,Ergonomic Office Chair,CHR-002,1,149.99,3.8,3.8,7.5,0,146.29,Completed
+ORD-2026-0129,Mechanical Gaming Keyboard,KEY-003,1,89.99,12.7,12.7,4.5,0,98.19,Completed
+ORD-2026-0130,Ultra-Wide USB-C Monitor,MON-004,1,299.99,5.7,5.7,15,0,290.69,Completed
+ORD-2026-0131,Waterproof Sports Smartwatch,WTC-006,1,79.99,10.2,10.2,4,0,86.19,Completed
+ORD-2026-0132,Adjustable Laptop Stand,STD-010,1,34.99,11.6,11.6,1.75,0,44.84,Completed
+ORD-2026-0133,Ergonomic Office Chair,CHR-002,1,149.99,12,22.82,7.5,0,154.49,Completed
+ORD-2026-0134,Portable Power Bank 20000mAh,PWR-007,1,39.99,5.4,16.69,2,0,43.39,Completed
+ORD-2026-0135,Ultra-Wide USB-C Monitor,MON-004,1,299.99,9.4,9.4,75,10,224.39,Completed
+ORD-2026-0136,Adjustable Laptop Stand,STD-010,1,34.99,12.8,12.8,1.75,0,46.04,Completed
+ORD-2026-0137,Waterproof Sports Smartwatch,WTC-006,1,79.99,8.8,8.8,4,0,84.79,Completed
+ORD-2026-0138,Ergonomic Office Chair,CHR-002,1,149.99,4.2,4.2,7.5,0,146.69,Completed
+ORD-2026-0139,Fast Charging Cable Type-C,CAB-005,1,19.99,12.8,12.8,1,0,31.79,Completed
+ORD-2026-0140,Mechanical Gaming Keyboard,KEY-003,1,89.99,4.4,4.4,4.5,0,89.89,Completed
+ORD-2026-0141,Adjustable Laptop Stand,STD-010,1,34.99,10.2,10.2,1.75,10,33.44,Completed
+ORD-2026-0142,Waterproof Sports Smartwatch,WTC-006,1,79.99,12,12,4,0,87.99,Completed
+ORD-2026-0143,Portable Power Bank 20000mAh,PWR-007,1,39.99,8.9,8.9,2,0,46.89,Completed
+ORD-2026-0144,Ergonomic Office Chair,CHR-002,1,149.99,3.8,3.8,7.5,0,146.29,Completed
+ORD-2026-0145,Portable Power Bank 20000mAh,PWR-007,1,39.99,7.8,7.8,2,0,45.79,Completed
+ORD-2026-0146,Adjustable Laptop Stand,STD-010,1,34.99,8.2,8.2,8.75,0,34.44,Completed
+ORD-2026-0147,Waterproof Sports Smartwatch,WTC-006,1,79.99,10.8,10.8,4,0,86.79,Completed
+ORD-2026-0148,Noise Cancelling Headphones,HDP-008,1,129.99,11.2,11.2,6.5,0,134.69,Completed
+ORD-2026-0149,Premium Wireless Earbuds,EAR-001,1,59.99,8.6,8.6,3,0,65.59,Completed
+ORD-2026-0150,Fast Charging Cable Type-C,CAB-005,1,19.99,12.9,12.9,1,10,21.89,Completed
+ORD-2026-0151,Adjustable Laptop Stand,STD-010,1,34.99,11.6,11.6,1.75,0,44.84,Completed
+ORD-2026-0152,Silicone Phone Case iPhone 15,CAS-009,1,14.99,3.2,3.2,0.75,0,17.44,Completed
+ORD-2026-0153,Ultra-Wide USB-C Monitor,MON-004,1,299.99,8.5,8.5,15,10,283.49,Completed
+ORD-2026-0154,Adjustable Laptop Stand,STD-010,1,34.99,7.3,7.3,1.75,0,40.54,Completed
+ORD-2026-0155,Portable Power Bank 20000mAh,PWR-007,1,39.99,9.3,9.3,2,10,37.29,Completed
+ORD-2026-0156,Ergonomic Office Chair,CHR-002,1,149.99,13,13,7.5,0,155.49,Completed
+ORD-2026-0157,Portable Power Bank 20000mAh,PWR-007,1,39.99,6,21.31,2,0,43.99,Completed
+ORD-2026-0158,Portable Power Bank 20000mAh,PWR-007,1,39.99,3.1,3.1,2,10,31.09,Completed
+ORD-2026-0159,Noise Cancelling Headphones,HDP-008,1,129.99,4.1,4.1,6.5,0,127.59,Completed
+ORD-2026-0160,Portable Power Bank 20000mAh,PWR-007,1,39.99,13,13,2,0,50.99,Completed
+ORD-2026-0161,Mechanical Gaming Keyboard,KEY-003,1,89.99,3.3,3.3,4.5,0,88.79,Completed
+ORD-2026-0162,Silicone Phone Case iPhone 15,CAS-009,1,14.99,9.2,9.2,0.75,0,23.44,Completed
+ORD-2026-0163,Mechanical Gaming Keyboard,KEY-003,1,89.99,3.4,3.4,4.5,0,88.89,Completed
+ORD-2026-0164,Fast Charging Cable Type-C,CAB-005,1,19.99,4.3,4.3,1,0,23.29,Completed
+ORD-2026-0165,Portable Power Bank 20000mAh,PWR-007,1,39.99,8.4,8.4,2,0,46.39,Completed
+ORD-2026-0166,Silicone Phone Case iPhone 15,CAS-009,1,14.99,6.2,6.2,0.75,0,20.44,Completed
+ORD-2026-0167,Ergonomic Office Chair,CHR-002,1,149.99,6.7,6.7,7.5,0,149.19,Completed
+ORD-2026-0168,Ultra-Wide USB-C Monitor,MON-004,3,899.97,5.4,21.37,45,0,860.37,Completed
+ORD-2026-0169,Fast Charging Cable Type-C,CAB-005,1,19.99,9.9,9.9,1,5,23.89,Completed
+ORD-2026-0170,Ultra-Wide USB-C Monitor,MON-004,1,299.99,4.1,4.1,15,5,284.09,Completed
+ORD-2026-0171,Adjustable Laptop Stand,STD-010,1,34.99,9.8,9.8,1.75,0,43.04,Completed
+ORD-2026-0172,Ultra-Wide USB-C Monitor,MON-004,1,299.99,6.1,6.1,15,10,281.09,Completed
+ORD-2026-0173,Fast Charging Cable Type-C,CAB-005,1,19.99,12.8,12.8,1,0,31.79,Completed
+ORD-2026-0174,Noise Cancelling Headphones,HDP-008,1,129.99,9.2,9.2,6.5,0,132.69,Completed
+ORD-2026-0175,Ultra-Wide USB-C Monitor,MON-004,1,299.99,4,15.14,15,0,288.99,Completed
+ORD-2026-0176,Portable Power Bank 20000mAh,PWR-007,1,39.99,5,5,2,0,42.99,Completed
+ORD-2026-0177,Premium Wireless Earbuds,EAR-001,1,59.99,5,5,3,0,61.99,Completed
+ORD-2026-0178,Portable Power Bank 20000mAh,PWR-007,1,39.99,6.7,6.7,2,0,44.69,Completed
+ORD-2026-0179,Fast Charging Cable Type-C,CAB-005,1,19.99,8.3,8.3,1,0,27.29,Completed
+ORD-2026-0180,Mechanical Gaming Keyboard,KEY-003,1,89.99,13,13,4.5,0,98.49,Completed
+ORD-2026-0181,Ultra-Wide USB-C Monitor,MON-004,1,299.99,12,12,15,10,286.99,Completed
+ORD-2026-0182,Waterproof Sports Smartwatch,WTC-006,1,79.99,12.8,12.8,4,0,88.79,Completed
+ORD-2026-0183,Ergonomic Office Chair,CHR-002,2,299.98,6,6,15,0,290.98,Completed
+ORD-2026-0184,Silicone Phone Case iPhone 15,CAS-009,1,14.99,5,11.19,0.75,0,19.24,Completed
+ORD-2026-0185,Premium Wireless Earbuds,EAR-001,1,59.99,3.1,3.1,3,0,60.09,Completed
+ORD-2026-0186,Portable Power Bank 20000mAh,PWR-007,1,39.99,7.3,7.3,2,10,35.29,Completed
+ORD-2026-0187,Mechanical Gaming Keyboard,KEY-003,1,89.99,12.8,12.8,4.5,5,93.29,Completed
+ORD-2026-0188,Premium Wireless Earbuds,EAR-001,1,59.99,12.1,12.1,3,0,69.09,Completed
+ORD-2026-0189,Ergonomic Office Chair,CHR-002,1,149.99,10.9,10.9,7.5,0,153.39,Completed
+ORD-2026-0190,Mechanical Gaming Keyboard,KEY-003,1,89.99,9.1,9.1,4.5,0,94.59,Completed
+ORD-2026-0191,Ergonomic Office Chair,CHR-002,1,149.99,6.1,6.1,7.5,0,148.59,Completed
+ORD-2026-0192,Noise Cancelling Headphones,HDP-008,1,129.99,6.3,6.3,6.5,0,129.79,Completed
+ORD-2026-0193,Mechanical Gaming Keyboard,KEY-003,1,89.99,5,5,4.5,0,90.49,Completed
+ORD-2026-0194,Portable Power Bank 20000mAh,PWR-007,1,39.99,9.8,21.48,2,0,47.79,Completed
+ORD-2026-0195,Adjustable Laptop Stand,STD-010,1,34.99,10.8,10.8,1.75,0,44.04,Completed
+ORD-2026-0196,Silicone Phone Case iPhone 15,CAS-009,1,14.99,9.7,24.83,0.75,0,23.94,Completed
+ORD-2026-0197,Waterproof Sports Smartwatch,WTC-006,1,79.99,8.9,8.9,4,10,74.89,Completed
+ORD-2026-0198,Fast Charging Cable Type-C,CAB-005,1,19.99,5.4,5.4,5,5,15.39,Completed
+ORD-2026-0199,Fast Charging Cable Type-C,CAB-005,1,19.99,10.1,10.1,1,0,29.09,Completed
+ORD-2026-0200,Ergonomic Office Chair,CHR-002,1,149.99,3.1,3.1,7.5,0,145.59,Completed
+ORD-2026-0201,Noise Cancelling Headphones,HDP-008,1,129.99,4,4,6.5,5,122.49,Completed
+ORD-2026-0202,Ergonomic Office Chair,CHR-002,1,149.99,13,13,7.5,5,150.49,Completed
+ORD-2026-0203,Ultra-Wide USB-C Monitor,MON-004,1,299.99,6.3,6.3,15,0,291.29,Completed
+ORD-2026-0204,Mechanical Gaming Keyboard,KEY-003,1,89.99,3.7,3.7,4.5,0,89.19,Completed
+ORD-2026-0205,Mechanical Gaming Keyboard,KEY-003,1,89.99,5.8,5.8,4.5,0,91.29,Completed
+ORD-2026-0206,Adjustable Laptop Stand,STD-010,1,34.99,3.9,3.9,1.75,10,27.14,Completed
+ORD-2026-0207,Adjustable Laptop Stand,STD-010,1,34.99,5.4,5.4,1.75,0,38.64,Completed
+ORD-2026-0208,Ultra-Wide USB-C Monitor,MON-004,1,299.99,3.1,3.1,15,0,288.09,Completed
+ORD-2026-0209,Mechanical Gaming Keyboard,KEY-003,1,89.99,6.8,6.8,4.5,10,82.29,Completed
+ORD-2026-0210,Ergonomic Office Chair,CHR-002,1,149.99,11.7,11.7,7.5,0,154.19,Completed
+ORD-2026-0211,Premium Wireless Earbuds,EAR-001,1,59.99,12.5,27.81,3,0,69.49,Completed
+ORD-2026-0212,Waterproof Sports Smartwatch,WTC-006,1,79.99,9,28.07,4,10,74.99,Completed
+ORD-2026-0213,Waterproof Sports Smartwatch,WTC-006,1,79.99,7.5,7.5,4,0,83.49,Completed
+ORD-2026-0214,Premium Wireless Earbuds,EAR-001,1,59.99,4.9,4.9,3,10,51.89,Completed
+ORD-2026-0215,Silicone Phone Case iPhone 15,CAS-009,1,14.99,9.2,9.2,0.75,0,23.44,Completed
+ORD-2026-0216,Fast Charging Cable Type-C,CAB-005,1,19.99,4.4,4.4,1,0,23.39,Completed
+ORD-2026-0217,Portable Power Bank 20000mAh,PWR-007,1,39.99,4.6,4.6,2,5,37.59,Completed
+ORD-2026-0218,Silicone Phone Case iPhone 15,CAS-009,1,14.99,7.9,7.9,0.75,0,22.14,Completed
+ORD-2026-0219,Portable Power Bank 20000mAh,PWR-007,1,39.99,7.6,7.6,2,0,45.59,Completed
+ORD-2026-0220,Premium Wireless Earbuds,EAR-001,1,59.99,6.9,6.9,3,0,63.89,Completed
+ORD-2026-0221,Premium Wireless Earbuds,EAR-001,1,59.99,7.3,7.3,3,0,64.29,Completed
+ORD-2026-0222,Waterproof Sports Smartwatch,WTC-006,1,79.99,7,7,4,0,82.99,Completed
+ORD-2026-0223,Premium Wireless Earbuds,EAR-001,1,59.99,11.4,11.4,3,0,68.39,Completed
+ORD-2026-0224,Silicone Phone Case iPhone 15,CAS-009,1,14.99,10.3,10.3,0.75,0,24.54,Completed
+ORD-2026-0225,Waterproof Sports Smartwatch,WTC-006,1,79.99,9.5,9.5,4,0,85.49,Completed
+ORD-2026-0226,Ultra-Wide USB-C Monitor,MON-004,1,299.99,12.6,12.6,15,10,287.59,Completed
+ORD-2026-0227,Waterproof Sports Smartwatch,WTC-006,1,79.99,4.8,4.8,4,0,80.79,Completed
+ORD-2026-0228,Mechanical Gaming Keyboard,KEY-003,1,89.99,11,11,4.5,0,96.49,Completed
+ORD-2026-0229,Premium Wireless Earbuds,EAR-001,1,59.99,11.8,11.8,3,0,68.79,Completed
+ORD-2026-0230,Premium Wireless Earbuds,EAR-001,1,59.99,8.6,8.6,3,5,60.59,Completed
+ORD-2026-0231,Portable Power Bank 20000mAh,PWR-007,1,39.99,3.4,3.4,2,0,41.39,Completed
+ORD-2026-0232,Adjustable Laptop Stand,STD-010,1,34.99,8.3,8.3,1.75,0,41.54,Completed
+ORD-2026-0233,Mechanical Gaming Keyboard,KEY-003,1,89.99,11.7,22.57,4.5,0,97.19,Completed
+ORD-2026-0234,Silicone Phone Case iPhone 15,CAS-009,1,14.99,3.6,3.6,0.75,0,17.84,Completed
+ORD-2026-0235,Waterproof Sports Smartwatch,WTC-006,1,79.99,10,10,4,0,85.99,Completed
+ORD-2026-0236,Portable Power Bank 20000mAh,PWR-007,1,39.99,9.8,9.8,2,0,47.79,Completed
+ORD-2026-0237,Fast Charging Cable Type-C,CAB-005,1,19.99,5.2,5.2,1,0,24.19,Completed
+ORD-2026-0238,Adjustable Laptop Stand,STD-010,1,34.99,11.8,11.8,1.75,10,35.04,Completed
+ORD-2026-0239,Waterproof Sports Smartwatch,WTC-006,1,79.99,10.6,10.6,4,0,86.59,Completed
+ORD-2026-0240,Ergonomic Office Chair,CHR-002,1,149.99,10.8,10.8,7.5,10,143.29,Completed
+ORD-2026-0241,Premium Wireless Earbuds,EAR-001,1,59.99,12.6,12.6,3,0,69.59,Completed
+ORD-2026-0242,Waterproof Sports Smartwatch,WTC-006,1,79.99,8.5,8.5,4,0,84.49,Completed
+ORD-2026-0243,Portable Power Bank 20000mAh,PWR-007,1,39.99,8.1,25.15,2,0,46.09,Completed
+ORD-2026-0244,Premium Wireless Earbuds,EAR-001,1,59.99,3.9,3.9,3,0,60.89,Completed
+ORD-2026-0245,Silicone Phone Case iPhone 15,CAS-009,1,14.99,12.5,12.5,0.75,0,26.74,Completed
+ORD-2026-0246,Waterproof Sports Smartwatch,WTC-006,1,79.99,5.7,5.7,4,0,81.69,Completed
+ORD-2026-0247,Waterproof Sports Smartwatch,WTC-006,1,79.99,7.9,7.9,4,0,83.89,Completed
+ORD-2026-0248,Adjustable Laptop Stand,STD-010,1,34.99,7.4,7.4,1.75,0,40.64,Completed
+ORD-2026-0249,Ultra-Wide USB-C Monitor,MON-004,1,299.99,3.4,3.4,15,5,283.39,Completed
+ORD-2026-0250,Ultra-Wide USB-C Monitor,MON-004,1,299.99,9.6,9.6,15,0,294.59,Completed
+ORD-2026-0251,Noise Cancelling Headphones,HDP-008,1,129.99,10.2,10.2,6.5,5,128.69,Completed
+ORD-2026-0252,Waterproof Sports Smartwatch,WTC-006,1,79.99,7,7,4,0,82.99,Completed
+ORD-2026-0253,Mechanical Gaming Keyboard,KEY-003,1,89.99,6.4,25.1,4.5,0,91.89,Completed
+ORD-2026-0254,Ergonomic Office Chair,CHR-002,1,149.99,11.4,11.4,7.5,0,153.89,Completed
+ORD-2026-0255,Ultra-Wide USB-C Monitor,MON-004,1,299.99,8.2,8.2,15,5,288.19,Completed
+ORD-2026-0256,Ergonomic Office Chair,CHR-002,2,299.98,4.4,4.4,15,0,289.38,Completed
+ORD-2026-0257,Fast Charging Cable Type-C,CAB-005,1,19.99,6,6,1,10,14.99,Completed
+ORD-2026-0258,Silicone Phone Case iPhone 15,CAS-009,1,14.99,5.5,5.5,0.75,0,19.74,Completed
+ORD-2026-0259,Premium Wireless Earbuds,EAR-001,1,59.99,10.5,10.5,3,0,67.49,Completed
+ORD-2026-0260,Ergonomic Office Chair,CHR-002,1,149.99,8.5,8.5,7.5,0,150.99,Completed
+ORD-2026-0261,Ultra-Wide USB-C Monitor,MON-004,1,299.99,4.8,4.8,15,0,289.79,Completed
+ORD-2026-0262,Adjustable Laptop Stand,STD-010,1,34.99,3,3,1.75,0,36.24,Completed
+ORD-2026-0263,Ultra-Wide USB-C Monitor,MON-004,1,299.99,11.4,11.4,15,0,296.39,Completed
+ORD-2026-0264,Waterproof Sports Smartwatch,WTC-006,1,79.99,5.3,5.3,4,0,81.29,Completed
+ORD-2026-0265,Adjustable Laptop Stand,STD-010,1,34.99,6.5,6.5,1.75,0,39.74,Completed
+ORD-2026-0266,Waterproof Sports Smartwatch,WTC-006,1,79.99,3.5,3.5,4,0,79.49,Completed
+ORD-2026-0267,Adjustable Laptop Stand,STD-010,1,34.99,8.2,8.2,1.75,0,41.44,Completed
+ORD-2026-0268,Premium Wireless Earbuds,EAR-001,1,59.99,4.2,4.2,3,0,61.19,Completed
+ORD-2026-0269,Noise Cancelling Headphones,HDP-008,1,129.99,8.1,8.1,6.5,5,126.59,Completed
+ORD-2026-0270,Ultra-Wide USB-C Monitor,MON-004,1,299.99,8.4,8.4,15,0,293.39,Completed
+ORD-2026-0271,Ultra-Wide USB-C Monitor,MON-004,1,299.99,3.1,3.1,15,0,288.09,Completed
+ORD-2026-0272,Silicone Phone Case iPhone 15,CAS-009,1,14.99,7,7,0.75,0,21.24,Completed
+ORD-2026-0273,Noise Cancelling Headphones,HDP-008,1,129.99,6.7,6.7,6.5,0,130.19,Completed
+ORD-2026-0274,Waterproof Sports Smartwatch,WTC-006,1,79.99,8.1,8.1,4,0,84.09,Completed
+ORD-2026-0275,Waterproof Sports Smartwatch,WTC-006,1,79.99,12.8,12.8,4,0,88.79,Completed
+ORD-2026-0276,Adjustable Laptop Stand,STD-010,1,34.99,3.7,3.7,1.75,10,26.94,Completed
+ORD-2026-0277,Premium Wireless Earbuds,EAR-001,1,59.99,12,12,3,0,68.99,Completed
+ORD-2026-0278,Ultra-Wide USB-C Monitor,MON-004,1,299.99,5,5,15,0,289.99,Completed
+ORD-2026-0279,Adjustable Laptop Stand,STD-010,1,34.99,6.8,6.8,1.75,0,40.04,Completed
+ORD-2026-0280,Adjustable Laptop Stand,STD-010,1,34.99,11.3,11.3,1.75,0,44.54,Completed
+ORD-2026-0281,Ergonomic Office Chair,CHR-002,1,149.99,3.5,3.5,7.5,0,145.99,Completed
+ORD-2026-0282,Mechanical Gaming Keyboard,KEY-003,1,89.99,6.7,6.7,4.5,0,92.19,Completed
+ORD-2026-0283,Portable Power Bank 20000mAh,PWR-007,1,39.99,10.5,10.5,2,0,48.49,Completed
+ORD-2026-0284,Fast Charging Cable Type-C,CAB-005,1,19.99,10.6,10.6,1,0,29.59,Completed
+ORD-2026-0285,Adjustable Laptop Stand,STD-010,1,34.99,4.2,23.08,1.75,0,37.44,Completed
+ORD-2026-0286,Mechanical Gaming Keyboard,KEY-003,1,89.99,8.9,8.9,4.5,0,94.39,Completed
+ORD-2026-0287,Mechanical Gaming Keyboard,KEY-003,1,89.99,6.1,6.1,4.5,5,86.59,Completed
+ORD-2026-0288,Adjustable Laptop Stand,STD-010,1,34.99,8.3,8.3,1.75,0,41.54,Completed
+ORD-2026-0289,Fast Charging Cable Type-C,CAB-005,1,19.99,4.9,4.9,1,0,23.89,Completed
+ORD-2026-0290,Premium Wireless Earbuds,EAR-001,1,59.99,12.9,12.9,3,0,69.89,Completed
+ORD-2026-0291,Premium Wireless Earbuds,EAR-001,1,59.99,6.8,19.37,3,10,53.79,Completed
+ORD-2026-0292,Ultra-Wide USB-C Monitor,MON-004,1,299.99,9,9,15,0,293.99,Completed
+ORD-2026-0293,Mechanical Gaming Keyboard,KEY-003,1,89.99,4.3,4.3,4.5,5,84.79,Completed
+ORD-2026-0294,Adjustable Laptop Stand,STD-010,1,34.99,6.2,6.2,1.75,0,39.44,Completed
+ORD-2026-0295,Mechanical Gaming Keyboard,KEY-003,1,89.99,7.7,7.7,4.5,0,93.19,Completed
+ORD-2026-0296,Adjustable Laptop Stand,STD-010,1,34.99,11.5,11.5,1.75,5,39.74,Completed
+ORD-2026-0297,Waterproof Sports Smartwatch,WTC-006,1,79.99,10.3,10.3,4,0,86.29,Completed
+ORD-2026-0298,Ergonomic Office Chair,CHR-002,1,149.99,4.9,4.9,7.5,0,147.39,Completed
+ORD-2026-0299,Portable Power Bank 20000mAh,PWR-007,1,39.99,4.1,4.1,2,10,32.09,Completed
+ORD-2026-0300,Fast Charging Cable Type-C,CAB-005,1,19.99,3.3,3.3,1,0,22.29,Completed
+ORD-2026-0301,Waterproof Sports Smartwatch,WTC-006,1,79.99,8.1,8.1,4,0,84.09,Completed
+ORD-2026-0302,Ultra-Wide USB-C Monitor,MON-004,1,299.99,4.3,4.3,15,0,289.29,Completed
+ORD-2026-0303,Ergonomic Office Chair,CHR-002,1,149.99,3.4,3.4,7.5,0,145.89,Completed
+ORD-2026-0304,Mechanical Gaming Keyboard,KEY-003,1,89.99,12.2,12.2,4.5,0,97.69,Completed
+ORD-2026-0305,Adjustable Laptop Stand,STD-010,1,34.99,11,11,1.75,0,44.24,Completed
+ORD-2026-0306,Adjustable Laptop Stand,STD-010,1,34.99,12.7,12.7,1.75,0,45.94,Completed
+ORD-2026-0307,Premium Wireless Earbuds,EAR-001,1,59.99,7.3,7.3,3,0,64.29,Completed
+ORD-2026-0308,Adjustable Laptop Stand,STD-010,1,34.99,11.9,11.9,1.75,0,45.14,Completed
+ORD-2026-0309,Noise Cancelling Headphones,HDP-008,1,129.99,6.3,6.3,6.5,0,129.79,Completed
+ORD-2026-0310,Ergonomic Office Chair,CHR-002,1,149.99,10.6,10.6,7.5,0,153.09,Completed
+ORD-2026-0311,Portable Power Bank 20000mAh,PWR-007,1,39.99,8.2,8.2,2,0,46.19,Completed
+ORD-2026-0312,Noise Cancelling Headphones,HDP-008,1,129.99,8.8,23.56,6.5,0,132.29,Completed
+ORD-2026-0313,Adjustable Laptop Stand,STD-010,1,34.99,10.5,10.5,1.75,0,43.74,Completed
+ORD-2026-0314,Fast Charging Cable Type-C,CAB-005,2,39.98,5.8,5.8,2,0,43.78,Completed
+ORD-2026-0315,Fast Charging Cable Type-C,CAB-005,1,19.99,8.7,8.7,1,0,27.69,Completed
+ORD-2026-0316,Silicone Phone Case iPhone 15,CAS-009,1,14.99,3.5,3.5,0.75,0,17.74,Completed
+ORD-2026-0317,Noise Cancelling Headphones,HDP-008,1,129.99,9.4,9.4,6.5,0,132.89,Completed
+ORD-2026-0318,Portable Power Bank 20000mAh,PWR-007,1,39.99,12.8,12.8,2,0,50.79,Completed
+ORD-2026-0319,Adjustable Laptop Stand,STD-010,1,34.99,8.6,8.6,1.75,5,36.84,Completed
+ORD-2026-0320,Premium Wireless Earbuds,EAR-001,1,59.99,11.3,11.3,3,0,68.29,Completed
+ORD-2026-0321,Portable Power Bank 20000mAh,PWR-007,1,39.99,10.6,10.6,2,0,48.59,Completed
+ORD-2026-0322,Ergonomic Office Chair,CHR-002,1,149.99,5.7,5.7,7.5,0,148.19,Completed
+ORD-2026-0323,Mechanical Gaming Keyboard,KEY-003,1,89.99,10.5,10.5,4.5,0,95.99,Completed
+ORD-2026-0324,Mechanical Gaming Keyboard,KEY-003,3,269.97,4.5,4.5,13.5,5,255.97,Completed
+ORD-2026-0325,Premium Wireless Earbuds,EAR-001,1,59.99,5.4,17.3,3,0,62.39,Completed
+ORD-2026-0326,Silicone Phone Case iPhone 15,CAS-009,1,14.99,4.7,4.7,0.75,0,18.94,Completed
+ORD-2026-0327,Silicone Phone Case iPhone 15,CAS-009,1,14.99,6,6,0.75,0,20.24,Completed
+ORD-2026-0328,Ergonomic Office Chair,CHR-002,1,149.99,5.6,5.6,7.5,0,148.09,Completed
+ORD-2026-0329,Portable Power Bank 20000mAh,PWR-007,1,39.99,9.9,9.9,2,0,47.89,Completed
+ORD-2026-0330,Portable Power Bank 20000mAh,PWR-007,1,39.99,9.1,14.55,2,0,47.09,Completed
+ORD-2026-0331,Mechanical Gaming Keyboard,KEY-003,1,89.99,6.9,6.9,4.5,0,92.39,Completed
+ORD-2026-0332,Ergonomic Office Chair,CHR-002,1,149.99,5.4,5.4,7.5,0,147.89,Completed
+ORD-2026-0333,Adjustable Laptop Stand,STD-010,1,34.99,6.2,6.2,1.75,0,39.44,Completed
+ORD-2026-0334,Premium Wireless Earbuds,EAR-001,1,59.99,5.9,5.9,3,0,62.89,Completed
+ORD-2026-0335,Silicone Phone Case iPhone 15,CAS-009,1,14.99,12,12,0.75,5,21.24,Completed
+ORD-2026-0336,Noise Cancelling Headphones,HDP-008,3,389.97,3.1,3.1,19.5,0,373.57,Completed
+ORD-2026-0337,Fast Charging Cable Type-C,CAB-005,1,19.99,12.5,12.5,1,10,21.49,Completed
+ORD-2026-0338,Noise Cancelling Headphones,HDP-008,1,129.99,11.1,11.1,6.5,0,134.59,Completed
+ORD-2026-0339,Mechanical Gaming Keyboard,KEY-003,1,89.99,8.2,8.2,4.5,5,88.69,Completed
+ORD-2026-0340,Waterproof Sports Smartwatch,WTC-006,1,79.99,8.1,8.1,4,10,74.09,Completed
+ORD-2026-0341,Waterproof Sports Smartwatch,WTC-006,1,79.99,10,10,4,10,75.99,Completed
+ORD-2026-0342,Ultra-Wide USB-C Monitor,MON-004,1,299.99,4.8,4.8,15,0,289.79,Completed
+ORD-2026-0343,Premium Wireless Earbuds,EAR-001,1,59.99,9.7,9.7,3,0,66.69,Completed
+ORD-2026-0344,Ultra-Wide USB-C Monitor,MON-004,1,299.99,3.1,20.01,15,0,288.09,Completed
+ORD-2026-0345,Ultra-Wide USB-C Monitor,MON-004,1,299.99,10.6,10.6,15,0,295.59,Completed
+ORD-2026-0346,Premium Wireless Earbuds,EAR-001,1,59.99,4.1,4.1,3,10,51.09,Completed
+ORD-2026-0347,Premium Wireless Earbuds,EAR-001,1,59.99,6,6,3,0,62.99,Completed
+ORD-2026-0348,Fast Charging Cable Type-C,CAB-005,1,19.99,8.5,8.5,1,0,27.49,Completed
+ORD-2026-0349,Waterproof Sports Smartwatch,WTC-006,1,79.99,10.5,10.5,4,0,86.49,Completed
+ORD-2026-0350,Premium Wireless Earbuds,EAR-001,1,59.99,6.6,6.6,3,0,63.59,Completed
+ORD-2026-0351,Fast Charging Cable Type-C,CAB-005,2,39.98,4.1,4.1,2,10,32.08,Completed
+ORD-2026-0352,Fast Charging Cable Type-C,CAB-005,1,19.99,6.2,6.2,1,0,25.19,Completed
+ORD-2026-0353,Portable Power Bank 20000mAh,PWR-007,1,39.99,7.8,7.8,2,0,45.79,Completed
+ORD-2026-0354,Noise Cancelling Headphones,HDP-008,1,129.99,5.3,5.3,6.5,0,128.79,Completed
+ORD-2026-0355,Ergonomic Office Chair,CHR-002,1,149.99,3.7,3.7,7.5,0,146.19,Completed
+ORD-2026-0356,Silicone Phone Case iPhone 15,CAS-009,1,14.99,5,5,0.75,0,19.24,Completed
+ORD-2026-0357,Mechanical Gaming Keyboard,KEY-003,1,89.99,8.7,20.3,4.5,0,94.19,Completed
+ORD-2026-0358,Ultra-Wide USB-C Monitor,MON-004,1,299.99,10,10,15,0,294.99,Completed
+ORD-2026-0359,Mechanical Gaming Keyboard,KEY-003,1,89.99,3.8,3.8,4.5,0,89.29,Completed
+ORD-2026-0360,Ergonomic Office Chair,CHR-002,1,149.99,12.3,12.3,7.5,10,144.79,Completed
+ORD-2026-0361,Mechanical Gaming Keyboard,KEY-003,1,89.99,3.8,3.8,4.5,5,84.29,Completed
+ORD-2026-0362,Premium Wireless Earbuds,EAR-001,1,59.99,9.1,9.1,3,0,66.09,Completed
+ORD-2026-0363,Silicone Phone Case iPhone 15,CAS-009,1,14.99,5.9,5.9,0.75,0,20.14,Completed
+ORD-2026-0364,Waterproof Sports Smartwatch,WTC-006,1,79.99,5,5,4,0,80.99,Completed
+ORD-2026-0365,Mechanical Gaming Keyboard,KEY-003,1,89.99,6.9,6.9,4.5,0,92.39,Completed
+ORD-2026-0366,Portable Power Bank 20000mAh,PWR-007,2,79.98,10.8,10.8,4,10,76.78,Completed
+ORD-2026-0367,Silicone Phone Case iPhone 15,CAS-009,2,29.98,11.8,11.8,1.5,0,40.28,Completed
+ORD-2026-0368,Waterproof Sports Smartwatch,WTC-006,1,79.99,3.7,3.7,4,0,79.69,Completed
+ORD-2026-0369,Waterproof Sports Smartwatch,WTC-006,1,79.99,6.4,6.4,4,0,82.39,Completed
+ORD-2026-0370,Noise Cancelling Headphones,HDP-008,1,129.99,5.4,5.4,6.5,0,128.89,Completed
+ORD-2026-0371,Ultra-Wide USB-C Monitor,MON-004,1,299.99,7.2,7.2,15,0,292.19,Completed
+ORD-2026-0372,Silicone Phone Case iPhone 15,CAS-009,1,14.99,11.3,11.3,0.75,0,25.54,Completed
+ORD-2026-0373,Silicone Phone Case iPhone 15,CAS-009,1,14.99,5.6,5.6,0.75,10,9.84,Completed
+ORD-2026-0374,Ergonomic Office Chair,CHR-002,1,149.99,12.1,12.1,7.5,5,149.59,Completed
+ORD-2026-0375,Silicone Phone Case iPhone 15,CAS-009,1,14.99,9.1,9.1,0.75,0,23.34,Completed
+ORD-2026-0376,Waterproof Sports Smartwatch,WTC-006,1,79.99,4.4,19.63,4,0,80.39,Completed
+ORD-2026-0377,Ultra-Wide USB-C Monitor,MON-004,1,299.99,11.6,11.6,15,10,286.59,Completed
+ORD-2026-0378,Portable Power Bank 20000mAh,PWR-007,1,39.99,7.9,7.9,2,0,45.89,Completed
+ORD-2026-0379,Premium Wireless Earbuds,EAR-001,1,59.99,5.7,5.7,3,0,62.69,Completed
+ORD-2026-0380,Ergonomic Office Chair,CHR-002,1,149.99,11.5,11.5,7.5,0,153.99,Completed
+ORD-2026-0381,Fast Charging Cable Type-C,CAB-005,1,19.99,6,6,1,10,14.99,Completed
+ORD-2026-0382,Premium Wireless Earbuds,EAR-001,1,59.99,4.1,4.1,3,0,61.09,Completed
+ORD-2026-0383,Adjustable Laptop Stand,STD-010,1,34.99,3.6,3.6,1.75,0,36.84,Completed
+ORD-2026-0384,Adjustable Laptop Stand,STD-010,1,34.99,3,3,1.75,0,36.24,Completed
+ORD-2026-0385,Waterproof Sports Smartwatch,WTC-006,1,79.99,6.3,6.3,4,0,82.29,Completed
+ORD-2026-0386,Ergonomic Office Chair,CHR-002,1,149.99,12,12,7.5,0,154.49,Completed
+ORD-2026-0387,Premium Wireless Earbuds,EAR-001,1,59.99,10.2,19.63,15,0,55.19,Completed
+ORD-2026-0388,Fast Charging Cable Type-C,CAB-005,1,19.99,4.5,4.5,1,0,23.49,Completed
+ORD-2026-0389,Fast Charging Cable Type-C,CAB-005,1,19.99,6.8,6.8,1,0,25.79,Completed
+ORD-2026-0390,Mechanical Gaming Keyboard,KEY-003,1,89.99,5.8,17.24,4.5,0,91.29,Completed
+ORD-2026-0391,Mechanical Gaming Keyboard,KEY-003,1,89.99,9.6,9.6,4.5,0,95.09,Completed
+ORD-2026-0392,Ultra-Wide USB-C Monitor,MON-004,2,599.98,11.7,11.7,30,0,581.68,Completed
+ORD-2026-0393,Ergonomic Office Chair,CHR-002,1,149.99,7.3,7.3,7.5,0,149.79,Completed
+ORD-2026-0394,Noise Cancelling Headphones,HDP-008,1,129.99,12.4,12.4,6.5,10,125.89,Completed
+ORD-2026-0395,Portable Power Bank 20000mAh,PWR-007,1,39.99,5.9,5.9,2,0,43.89,Completed
+ORD-2026-0396,Portable Power Bank 20000mAh,PWR-007,1,39.99,8.1,8.1,2,5,41.09,Completed
+ORD-2026-0397,Waterproof Sports Smartwatch,WTC-006,1,79.99,6.9,6.9,4,0,82.89,Completed
+ORD-2026-0398,Silicone Phone Case iPhone 15,CAS-009,1,14.99,9.1,9.1,0.75,0,23.34,Completed
+ORD-2026-0399,Fast Charging Cable Type-C,CAB-005,1,19.99,3.1,3.1,1,10,12.09,Completed
+ORD-2026-0400,Silicone Phone Case iPhone 15,CAS-009,1,14.99,4.6,4.6,0.75,0,18.84,Completed
+ORD-2026-0401,Noise Cancelling Headphones,HDP-008,1,129.99,5.3,5.3,6.5,5,123.79,Completed
+ORD-2026-0402,Ergonomic Office Chair,CHR-002,1,149.99,12.2,12.2,7.5,5,149.69,Completed
+ORD-2026-0403,Ultra-Wide USB-C Monitor,MON-004,1,299.99,7.9,7.9,15,0,292.89,Completed
+ORD-2026-0404,Premium Wireless Earbuds,EAR-001,1,59.99,11,11,3,5,62.99,Completed
+ORD-2026-0405,Mechanical Gaming Keyboard,KEY-003,3,269.97,3.2,3.2,13.5,0,259.67,Completed
+ORD-2026-0406,Fast Charging Cable Type-C,CAB-005,1,19.99,7.2,7.2,1,0,26.19,Completed
+ORD-2026-0407,Portable Power Bank 20000mAh,PWR-007,1,39.99,9.2,9.2,2,0,47.19,Completed
+ORD-2026-0408,Premium Wireless Earbuds,EAR-001,1,59.99,7,7,3,0,63.99,Completed
+ORD-2026-0409,Waterproof Sports Smartwatch,WTC-006,1,79.99,9.5,9.5,4,0,85.49,Completed
+ORD-2026-0410,Adjustable Laptop Stand,STD-010,1,34.99,8.7,8.7,1.75,0,41.94,Completed
+ORD-2026-0411,Mechanical Gaming Keyboard,KEY-003,1,89.99,11.5,11.5,4.5,0,96.99,Completed
+ORD-2026-0412,Portable Power Bank 20000mAh,PWR-007,1,39.99,4.8,4.8,2,0,42.79,Completed
+ORD-2026-0413,Adjustable Laptop Stand,STD-010,1,34.99,4.6,4.6,1.75,0,37.84,Completed
+ORD-2026-0414,Fast Charging Cable Type-C,CAB-005,1,19.99,3.7,3.7,1,0,22.69,Completed
+ORD-2026-0415,Portable Power Bank 20000mAh,PWR-007,1,39.99,9.5,9.5,2,0,47.49,Completed
+ORD-2026-0416,Adjustable Laptop Stand,STD-010,1,34.99,9.8,9.8,1.75,0,43.04,Completed
+ORD-2026-0417,Portable Power Bank 20000mAh,PWR-007,1,39.99,3.7,3.7,2,0,41.69,Completed
+ORD-2026-0418,Ergonomic Office Chair,CHR-002,1,149.99,8.2,8.2,7.5,0,150.69,Completed
+ORD-2026-0419,Premium Wireless Earbuds,EAR-001,1,59.99,9.2,9.2,3,0,66.19,Completed
+ORD-2026-0420,Noise Cancelling Headphones,HDP-008,1,129.99,7.3,7.3,6.5,5,125.79,Completed
+ORD-2026-0421,Fast Charging Cable Type-C,CAB-005,1,19.99,4.6,4.6,1,5,18.59,Completed
+ORD-2026-0422,Portable Power Bank 20000mAh,PWR-007,1,39.99,5.6,5.6,2,10,33.59,Completed
+ORD-2026-0423,Ultra-Wide USB-C Monitor,MON-004,1,299.99,10.8,10.8,15,10,285.79,Completed
+ORD-2026-0424,Silicone Phone Case iPhone 15,CAS-009,1,14.99,11.5,11.5,0.75,0,25.74,Completed
+ORD-2026-0425,Mechanical Gaming Keyboard,KEY-003,1,89.99,4.3,4.3,4.5,5,84.79,Completed
+ORD-2026-0426,Adjustable Laptop Stand,STD-010,1,34.99,8.1,8.1,1.75,0,41.34,Completed
+ORD-2026-0427,Ergonomic Office Chair,CHR-002,1,149.99,7.8,7.8,7.5,0,150.29,Completed
+ORD-2026-0428,Ultra-Wide USB-C Monitor,MON-004,1,299.99,3.1,3.1,15,0,288.09,Completed
+ORD-2026-0429,Ultra-Wide USB-C Monitor,MON-004,1,299.99,12,12,15,5,291.99,Completed
+ORD-2026-0430,Waterproof Sports Smartwatch,WTC-006,1,79.99,6.1,6.1,4,0,82.09,Completed
+ORD-2026-0431,Ultra-Wide USB-C Monitor,MON-004,2,599.98,11.7,11.7,30,0,581.68,Completed
+ORD-2026-0432,Portable Power Bank 20000mAh,PWR-007,1,39.99,4.8,4.8,2,0,42.79,Completed
+ORD-2026-0433,Adjustable Laptop Stand,STD-010,1,34.99,10.5,10.5,1.75,0,43.74,Completed
+ORD-2026-0434,Portable Power Bank 20000mAh,PWR-007,1,39.99,4.3,4.3,2,10,32.29,Completed
+ORD-2026-0435,Silicone Phone Case iPhone 15,CAS-009,1,14.99,7.4,7.4,0.75,0,21.64,Completed
+ORD-2026-0436,Noise Cancelling Headphones,HDP-008,1,129.99,5.4,5.4,32.5,5,97.89,Completed
+ORD-2026-0437,Ergonomic Office Chair,CHR-002,1,149.99,12.8,12.8,7.5,10,145.29,Completed
+ORD-2026-0438,Ultra-Wide USB-C Monitor,MON-004,1,299.99,9.3,9.3,15,0,294.29,Completed
+ORD-2026-0439,Mechanical Gaming Keyboard,KEY-003,1,89.99,12.3,12.3,4.5,5,92.79,Completed
+ORD-2026-0440,Fast Charging Cable Type-C,CAB-005,1,19.99,7,7,1,0,25.99,Completed
+ORD-2026-0441,Premium Wireless Earbuds,EAR-001,1,59.99,5.4,5.4,3,5,57.39,Completed
+ORD-2026-0442,Ergonomic Office Chair,CHR-002,1,149.99,4.5,4.5,7.5,10,136.99,Completed
+ORD-2026-0443,Noise Cancelling Headphones,HDP-008,1,129.99,5.8,5.8,6.5,0,129.29,Completed
+ORD-2026-0444,Portable Power Bank 20000mAh,PWR-007,1,39.99,9,9,2,10,36.99,Completed
+ORD-2026-0445,Silicone Phone Case iPhone 15,CAS-009,1,14.99,10.1,10.1,0.75,0,24.34,Completed
+ORD-2026-0446,Premium Wireless Earbuds,EAR-001,1,59.99,5.9,5.9,3,0,62.89,Completed
+ORD-2026-0447,Noise Cancelling Headphones,HDP-008,1,129.99,7,7,6.5,5,125.49,Completed
+ORD-2026-0448,Waterproof Sports Smartwatch,WTC-006,1,79.99,6.8,20.71,4,0,82.79,Completed
+ORD-2026-0449,Ultra-Wide USB-C Monitor,MON-004,1,299.99,9.9,9.9,15,0,294.89,Completed
+ORD-2026-0450,Ultra-Wide USB-C Monitor,MON-004,1,299.99,11,11,15,0,295.99,Completed
+ORD-2026-0451,Ultra-Wide USB-C Monitor,MON-004,1,299.99,8.5,8.5,15,0,293.49,Completed
+ORD-2026-0452,Waterproof Sports Smartwatch,WTC-006,1,79.99,6.6,6.6,4,0,82.59,Completed
+ORD-2026-0453,Premium Wireless Earbuds,EAR-001,1,59.99,10.9,10.9,3,0,67.89,Completed
+ORD-2026-0454,Adjustable Laptop Stand,STD-010,1,34.99,6.9,6.9,1.75,0,40.14,Completed
+ORD-2026-0455,Noise Cancelling Headphones,HDP-008,1,129.99,6.5,6.5,6.5,0,129.99,Completed
+ORD-2026-0456,Mechanical Gaming Keyboard,KEY-003,1,89.99,4.5,4.5,4.5,0,89.99,Completed
+ORD-2026-0457,Ultra-Wide USB-C Monitor,MON-004,1,299.99,10.1,10.1,15,0,295.09,Completed
+ORD-2026-0458,Fast Charging Cable Type-C,CAB-005,1,19.99,3.8,3.8,1,0,22.79,Completed
+ORD-2026-0459,Noise Cancelling Headphones,HDP-008,3,389.97,10.4,10.4,19.5,0,380.87,Completed
+ORD-2026-0460,Premium Wireless Earbuds,EAR-001,1,59.99,10.4,10.4,3,0,67.39,Completed
+ORD-2026-0461,Noise Cancelling Headphones,HDP-008,1,129.99,4,4,6.5,0,127.49,Completed
+ORD-2026-0462,Ergonomic Office Chair,CHR-002,1,149.99,12.4,12.4,7.5,0,154.89,Completed
+ORD-2026-0463,Ultra-Wide USB-C Monitor,MON-004,1,299.99,6.2,6.2,15,0,291.19,Completed
+ORD-2026-0464,Portable Power Bank 20000mAh,PWR-007,1,39.99,13,13,2,0,50.99,Completed
+ORD-2026-0465,Waterproof Sports Smartwatch,WTC-006,1,79.99,7.3,7.3,4,0,83.29,Completed
+ORD-2026-0466,Portable Power Bank 20000mAh,PWR-007,3,119.97,8.9,8.9,6,0,122.87,Completed
+ORD-2026-0467,Portable Power Bank 20000mAh,PWR-007,1,39.99,8.7,8.7,2,0,46.69,Completed
+ORD-2026-0468,Fast Charging Cable Type-C,CAB-005,1,19.99,9.2,9.2,1,10,18.19,Completed
+ORD-2026-0469,Portable Power Bank 20000mAh,PWR-007,1,39.99,12.9,12.9,2,0,50.89,Completed
+ORD-2026-0470,Silicone Phone Case iPhone 15,CAS-009,1,14.99,10.3,10.3,0.75,0,24.54,Completed
+ORD-2026-0471,Adjustable Laptop Stand,STD-010,1,34.99,8.2,8.2,1.75,5,36.44,Completed
+ORD-2026-0472,Ultra-Wide USB-C Monitor,MON-004,1,299.99,3,3,15,0,287.99,Completed
+ORD-2026-0473,Mechanical Gaming Keyboard,KEY-003,3,269.97,9.7,9.7,13.5,0,266.17,Completed
+ORD-2026-0474,Premium Wireless Earbuds,EAR-001,1,59.99,4.2,4.2,3,0,61.19,Completed
+ORD-2026-0475,Waterproof Sports Smartwatch,WTC-006,1,79.99,4.7,4.7,4,0,80.69,Completed
+ORD-2026-0476,Ultra-Wide USB-C Monitor,MON-004,1,299.99,10.5,10.5,15,10,285.49,Completed
+ORD-2026-0477,Noise Cancelling Headphones,HDP-008,1,129.99,11.9,11.9,6.5,10,125.39,Completed
+ORD-2026-0478,Ultra-Wide USB-C Monitor,MON-004,1,299.99,5.7,5.7,15,0,290.69,Completed
+ORD-2026-0479,Mechanical Gaming Keyboard,KEY-003,1,89.99,6.9,6.9,4.5,0,92.39,Completed
+ORD-2026-0480,Fast Charging Cable Type-C,CAB-005,1,19.99,5.2,5.2,1,0,24.19,Completed
+ORD-2026-0481,Ultra-Wide USB-C Monitor,MON-004,1,299.99,12.1,12.1,15,0,297.09,Completed
+ORD-2026-0482,Ultra-Wide USB-C Monitor,MON-004,1,299.99,7,17.99,15,10,281.99,Completed
+ORD-2026-0483,Mechanical Gaming Keyboard,KEY-003,1,89.99,7.3,7.3,4.5,0,92.79,Completed
+ORD-2026-0484,Portable Power Bank 20000mAh,PWR-007,1,39.99,3.5,3.5,2,0,41.49,Completed
+ORD-2026-0485,Premium Wireless Earbuds,EAR-001,1,59.99,9,27.97,3,0,65.99,Completed
+ORD-2026-0486,Silicone Phone Case iPhone 15,CAS-009,1,14.99,8.2,8.2,0.75,5,17.44,Completed
+ORD-2026-0487,Fast Charging Cable Type-C,CAB-005,1,19.99,9.1,9.1,1,0,28.09,Completed
+ORD-2026-0488,Portable Power Bank 20000mAh,PWR-007,1,39.99,8.8,24.6,2,10,36.79,Completed
+ORD-2026-0489,Waterproof Sports Smartwatch,WTC-006,1,79.99,9.5,9.5,4,10,75.49,Completed
+ORD-2026-0490,Ergonomic Office Chair,CHR-002,1,149.99,4.3,4.3,7.5,0,146.79,Completed
+ORD-2026-0491,Portable Power Bank 20000mAh,PWR-007,1,39.99,10.8,10.8,2,0,48.79,Completed
+ORD-2026-0492,Noise Cancelling Headphones,HDP-008,1,129.99,9,9,6.5,0,132.49,Completed
+ORD-2026-0493,Waterproof Sports Smartwatch,WTC-006,3,239.97,9.7,9.7,12,0,237.67,Completed
+ORD-2026-0494,Fast Charging Cable Type-C,CAB-005,1,19.99,12.2,12.2,1,0,31.19,Completed
+ORD-2026-0495,Silicone Phone Case iPhone 15,CAS-009,1,14.99,5.3,5.3,0.75,0,19.54,Completed
+ORD-2026-0496,Mechanical Gaming Keyboard,KEY-003,1,89.99,9.3,9.3,4.5,0,94.79,Completed
+ORD-2026-0497,Noise Cancelling Headphones,HDP-008,1,129.99,8.7,8.7,6.5,0,132.19,Completed
+ORD-2026-0498,Mechanical Gaming Keyboard,KEY-003,1,89.99,9.5,9.5,22.5,10,66.99,Completed
+ORD-2026-0499,Ergonomic Office Chair,CHR-002,1,149.99,3.5,3.5,7.5,0,145.99,Completed
+ORD-2026-0500,Fast Charging Cable Type-C,CAB-005,1,19.99,10.8,10.8,1,0,29.79,Completed
+ORD-2026-0501,Mechanical Gaming Keyboard,KEY-003,1,89.99,4.7,4.7,4.5,0,90.19,Completed
+ORD-2026-0502,Ergonomic Office Chair,CHR-002,1,149.99,3.3,3.3,7.5,0,145.79,Completed
+ORD-2026-0503,Portable Power Bank 20000mAh,PWR-007,1,39.99,11.1,11.1,2,0,49.09,Completed
+ORD-2026-0504,Premium Wireless Earbuds,EAR-001,1,59.99,8.6,8.6,3,0,65.59,Completed
+ORD-2026-0505,Waterproof Sports Smartwatch,WTC-006,1,79.99,7.2,7.2,4,0,83.19,Completed
+ORD-2026-0506,Waterproof Sports Smartwatch,WTC-006,1,79.99,9.5,9.5,4,0,85.49,Completed
+ORD-2026-0507,Ultra-Wide USB-C Monitor,MON-004,1,299.99,11.5,11.5,15,0,296.49,Completed
+ORD-2026-0508,Ergonomic Office Chair,CHR-002,1,149.99,5.5,5.5,7.5,10,137.99,Completed
+ORD-2026-0509,Mechanical Gaming Keyboard,KEY-003,1,89.99,10.2,10.2,4.5,0,95.69,Completed
+ORD-2026-0510,Waterproof Sports Smartwatch,WTC-006,1,79.99,10.9,10.9,4,0,86.89,Completed
+ORD-2026-0511,Fast Charging Cable Type-C,CAB-005,1,19.99,4,4,1,0,22.99,Completed
+ORD-2026-0512,Mechanical Gaming Keyboard,KEY-003,1,89.99,4.1,4.1,4.5,10,79.59,Completed
+ORD-2026-0513,Premium Wireless Earbuds,EAR-001,1,59.99,3.7,3.7,3,0,60.69,Completed
+ORD-2026-0514,Waterproof Sports Smartwatch,WTC-006,1,79.99,11.1,11.1,4,0,87.09,Completed
+ORD-2026-0515,Portable Power Bank 20000mAh,PWR-007,1,39.99,7,7,10,0,36.99,Completed
+ORD-2026-0516,Portable Power Bank 20000mAh,PWR-007,1,39.99,8.7,8.7,2,0,46.69,Completed
+ORD-2026-0517,Portable Power Bank 20000mAh,PWR-007,1,39.99,7.5,22.42,2,0,45.49,Completed
+ORD-2026-0518,Portable Power Bank 20000mAh,PWR-007,1,39.99,8.3,8.3,2,0,46.29,Completed
+ORD-2026-0519,Adjustable Laptop Stand,STD-010,1,34.99,10.8,23.4,1.75,0,44.04,Completed
+ORD-2026-0520,Waterproof Sports Smartwatch,WTC-006,1,79.99,6.4,6.4,4,0,82.39,Completed
+ORD-2026-0521,Noise Cancelling Headphones,HDP-008,1,129.99,8.8,8.8,6.5,0,132.29,Completed
+ORD-2026-0522,Adjustable Laptop Stand,STD-010,1,34.99,12.8,12.8,1.75,0,46.04,Completed
+ORD-2026-0523,Portable Power Bank 20000mAh,PWR-007,1,39.99,4.3,4.3,2,0,42.29,Completed
+ORD-2026-0524,Noise Cancelling Headphones,HDP-008,3,389.97,12.8,12.8,19.5,0,383.27,Completed
+ORD-2026-0525,Ultra-Wide USB-C Monitor,MON-004,1,299.99,3.9,3.9,15,10,278.89,Completed
+ORD-2026-0526,Ergonomic Office Chair,CHR-002,1,149.99,8.6,8.6,7.5,0,151.09,Completed
+ORD-2026-0527,Ultra-Wide USB-C Monitor,MON-004,1,299.99,3,3,15,0,287.99,Completed
+ORD-2026-0528,Silicone Phone Case iPhone 15,CAS-009,1,14.99,7.4,7.4,0.75,0,21.64,Completed
+ORD-2026-0529,Fast Charging Cable Type-C,CAB-005,1,19.99,6.1,6.1,1,0,25.09,Completed
+ORD-2026-0530,Ergonomic Office Chair,CHR-002,1,149.99,6,6,7.5,0,148.49,Completed
+ORD-2026-0531,Fast Charging Cable Type-C,CAB-005,1,19.99,11.6,11.6,1,5,25.59,Completed
+ORD-2026-0532,Ultra-Wide USB-C Monitor,MON-004,1,299.99,3.6,3.6,15,0,288.59,Completed
+ORD-2026-0533,Adjustable Laptop Stand,STD-010,1,34.99,11.9,17.45,1.75,0,45.14,Completed
+ORD-2026-0534,Mechanical Gaming Keyboard,KEY-003,1,89.99,9.8,9.8,4.5,0,95.29,Completed
+ORD-2026-0535,Mechanical Gaming Keyboard,KEY-003,1,89.99,9.3,9.3,4.5,0,94.79,Completed
+ORD-2026-0536,Waterproof Sports Smartwatch,WTC-006,1,79.99,10.3,25.9,4,0,86.29,Completed
+ORD-2026-0537,Premium Wireless Earbuds,EAR-001,1,59.99,7,13.37,3,10,53.99,Completed
+ORD-2026-0538,Fast Charging Cable Type-C,CAB-005,1,19.99,11.1,25.02,1,0,30.09,Completed
+ORD-2026-0539,Ultra-Wide USB-C Monitor,MON-004,1,299.99,12.6,12.6,15,0,297.59,Completed
+ORD-2026-0540,Ergonomic Office Chair,CHR-002,1,149.99,10.5,10.5,7.5,0,152.99,Completed
+ORD-2026-0541,Portable Power Bank 20000mAh,PWR-007,1,39.99,4.9,4.9,2,0,42.89,Completed
+ORD-2026-0542,Fast Charging Cable Type-C,CAB-005,1,19.99,3.1,3.1,1,0,22.09,Completed
+ORD-2026-0543,Silicone Phone Case iPhone 15,CAS-009,1,14.99,12.6,12.6,0.75,0,26.84,Completed
+ORD-2026-0544,Silicone Phone Case iPhone 15,CAS-009,1,14.99,6.9,6.9,0.75,0,21.14,Completed
+ORD-2026-0545,Silicone Phone Case iPhone 15,CAS-009,1,14.99,6.3,6.3,0.75,0,20.54,Completed
+ORD-2026-0546,Portable Power Bank 20000mAh,PWR-007,1,39.99,3.3,15.82,2,0,41.29,Completed
+ORD-2026-0547,Portable Power Bank 20000mAh,PWR-007,1,39.99,5.1,5.1,2,0,43.09,Completed
+ORD-2026-0548,Premium Wireless Earbuds,EAR-001,1,59.99,11.6,11.6,3,10,58.59,Completed
+ORD-2026-0549,Portable Power Bank 20000mAh,PWR-007,2,79.98,4.2,4.2,4,0,80.18,Completed
+ORD-2026-0550,Waterproof Sports Smartwatch,WTC-006,1,79.99,4.6,4.6,4,0,80.59,Completed
+ORD-2026-0551,Portable Power Bank 20000mAh,PWR-007,1,39.99,11.3,11.3,2,10,39.29,Completed
+ORD-2026-0552,Ultra-Wide USB-C Monitor,MON-004,1,299.99,6.3,6.3,15,0,291.29,Completed
+ORD-2026-0553,Ergonomic Office Chair,CHR-002,1,149.99,5.6,5.6,7.5,0,148.09,Completed
+ORD-2026-0554,Fast Charging Cable Type-C,CAB-005,1,19.99,3.6,3.6,1,0,22.59,Completed
+ORD-2026-0555,Adjustable Laptop Stand,STD-010,1,34.99,6.8,6.8,1.75,0,40.04,Completed
+ORD-2026-0556,Noise Cancelling Headphones,HDP-008,1,129.99,8.1,8.1,6.5,0,131.59,Completed
+ORD-2026-0557,Waterproof Sports Smartwatch,WTC-006,1,79.99,11.6,11.6,4,0,87.59,Completed
+ORD-2026-0558,Noise Cancelling Headphones,HDP-008,1,129.99,6.4,6.4,6.5,0,129.89,Completed
+ORD-2026-0559,Waterproof Sports Smartwatch,WTC-006,1,79.99,11,11,4,0,86.99,Completed
+ORD-2026-0560,Noise Cancelling Headphones,HDP-008,1,129.99,10.9,10.9,6.5,0,134.39,Completed
+ORD-2026-0561,Ergonomic Office Chair,CHR-002,2,299.98,10.2,10.2,15,0,295.18,Completed
+ORD-2026-0562,Noise Cancelling Headphones,HDP-008,2,259.98,10.1,10.1,13,0,257.08,Completed
+ORD-2026-0563,Noise Cancelling Headphones,HDP-008,1,129.99,12.8,12.8,6.5,0,136.29,Completed
+ORD-2026-0564,Ultra-Wide USB-C Monitor,MON-004,1,299.99,9.3,9.3,15,0,294.29,Completed
+ORD-2026-0565,Portable Power Bank 20000mAh,PWR-007,1,39.99,9.2,9.2,2,5,42.19,Completed
+ORD-2026-0566,Noise Cancelling Headphones,HDP-008,1,129.99,4.3,4.3,6.5,0,127.79,Completed
+ORD-2026-0567,Ultra-Wide USB-C Monitor,MON-004,1,299.99,6.8,6.8,15,0,291.79,Completed
+ORD-2026-0568,Premium Wireless Earbuds,EAR-001,1,59.99,7.8,7.8,3,0,64.79,Completed
+ORD-2026-0569,Fast Charging Cable Type-C,CAB-005,1,19.99,11.2,11.2,1,0,30.19,Completed
+ORD-2026-0570,Mechanical Gaming Keyboard,KEY-003,1,89.99,10,10,4.5,10,85.49,Completed
+ORD-2026-0571,Adjustable Laptop Stand,STD-010,1,34.99,3.2,3.2,1.75,0,36.44,Completed
+ORD-2026-0572,Ultra-Wide USB-C Monitor,MON-004,1,299.99,8.8,8.8,15,0,293.79,Completed
+ORD-2026-0573,Waterproof Sports Smartwatch,WTC-006,1,79.99,8.9,8.9,4,0,84.89,Completed
+ORD-2026-0574,Portable Power Bank 20000mAh,PWR-007,1,39.99,4.2,4.2,2,0,42.19,Completed
+ORD-2026-0575,Waterproof Sports Smartwatch,WTC-006,1,79.99,6.2,6.2,4,0,82.19,Completed
+ORD-2026-0576,Mechanical Gaming Keyboard,KEY-003,1,89.99,12.6,12.6,4.5,0,98.09,Completed
+ORD-2026-0577,Noise Cancelling Headphones,HDP-008,1,129.99,10.9,10.9,6.5,5,129.39,Completed
+ORD-2026-0578,Portable Power Bank 20000mAh,PWR-007,1,39.99,5.6,17.76,2,0,43.59,Completed
+ORD-2026-0579,Ergonomic Office Chair,CHR-002,1,149.99,10.1,10.1,7.5,0,152.59,Completed
+ORD-2026-0580,Ultra-Wide USB-C Monitor,MON-004,1,299.99,12.4,12.4,15,5,292.39,Completed
+ORD-2026-0581,Waterproof Sports Smartwatch,WTC-006,1,79.99,10.1,10.1,4,0,86.09,Completed
+ORD-2026-0582,Waterproof Sports Smartwatch,WTC-006,1,79.99,7.5,7.5,4,10,73.49,Completed
+ORD-2026-0583,Premium Wireless Earbuds,EAR-001,1,59.99,3.1,3.1,3,0,60.09,Completed
+ORD-2026-0584,Ultra-Wide USB-C Monitor,MON-004,3,899.97,3.3,3.3,45,0,858.27,Completed
+ORD-2026-0585,Waterproof Sports Smartwatch,WTC-006,1,79.99,12.5,12.5,4,10,78.49,Completed
+ORD-2026-0586,Waterproof Sports Smartwatch,WTC-006,1,79.99,11.7,11.7,4,0,87.69,Completed
+ORD-2026-0587,Mechanical Gaming Keyboard,KEY-003,1,89.99,11.3,11.3,4.5,0,96.79,Completed
+ORD-2026-0588,Noise Cancelling Headphones,HDP-008,1,129.99,12.8,29.09,6.5,0,136.29,Completed
+ORD-2026-0589,Waterproof Sports Smartwatch,WTC-006,1,79.99,10.4,10.4,4,10,76.39,Completed
+ORD-2026-0590,Noise Cancelling Headphones,HDP-008,1,129.99,5.3,5.3,6.5,0,128.79,Completed
+ORD-2026-0591,Portable Power Bank 20000mAh,PWR-007,1,39.99,9,9,2,0,46.99,Completed
+ORD-2026-0592,Waterproof Sports Smartwatch,WTC-006,2,159.98,7.9,13.75,8,10,149.88,Completed
+ORD-2026-0593,Premium Wireless Earbuds,EAR-001,1,59.99,5.8,5.8,3,0,62.79,Completed
+ORD-2026-0594,Silicone Phone Case iPhone 15,CAS-009,1,14.99,3.2,3.2,0.75,0,17.44,Completed
+ORD-2026-0595,Ultra-Wide USB-C Monitor,MON-004,1,299.99,11.9,11.9,15,0,296.89,Completed
+ORD-2026-0596,Adjustable Laptop Stand,STD-010,1,34.99,4.6,4.6,1.75,0,37.84,Completed
+ORD-2026-0597,Noise Cancelling Headphones,HDP-008,1,129.99,10.7,10.7,6.5,0,134.19,Completed
+ORD-2026-0598,Noise Cancelling Headphones,HDP-008,1,129.99,8.4,8.4,6.5,0,131.89,Completed
+ORD-2026-0599,Premium Wireless Earbuds,EAR-001,1,59.99,8.7,8.7,3,0,65.69,Completed
+ORD-2026-0600,Premium Wireless Earbuds,EAR-001,1,59.99,12.7,12.7,3,0,69.69,Completed
+ORD-2026-0601,Premium Wireless Earbuds,EAR-001,1,59.99,7.3,7.3,3,0,64.29,Completed
+ORD-2026-0602,Mechanical Gaming Keyboard,KEY-003,1,89.99,3.1,3.1,4.5,0,88.59,Completed
+ORD-2026-0603,Fast Charging Cable Type-C,CAB-005,3,59.97,12.8,12.8,3,0,69.77,Completed
+ORD-2026-0604,Premium Wireless Earbuds,EAR-001,1,59.99,3.5,3.5,3,0,60.49,Completed
+ORD-2026-0605,Portable Power Bank 20000mAh,PWR-007,1,39.99,9.5,9.5,2,0,47.49,Completed
+ORD-2026-0606,Ultra-Wide USB-C Monitor,MON-004,1,299.99,7.4,7.4,15,0,292.39,Completed
+ORD-2026-0607,Ultra-Wide USB-C Monitor,MON-004,1,299.99,7.4,7.4,15,10,282.39,Completed
+ORD-2026-0608,Ultra-Wide USB-C Monitor,MON-004,1,299.99,4.3,4.3,15,0,289.29,Completed
+ORD-2026-0609,Noise Cancelling Headphones,HDP-008,1,129.99,6.6,6.6,6.5,10,120.09,Completed
+ORD-2026-0610,Ergonomic Office Chair,CHR-002,1,149.99,3,3,7.5,0,145.49,Completed
+ORD-2026-0611,Waterproof Sports Smartwatch,WTC-006,1,79.99,3.7,11.37,4,0,79.69,Completed
+ORD-2026-0612,Adjustable Laptop Stand,STD-010,1,34.99,7,7,1.75,0,40.24,Completed
+ORD-2026-0613,Adjustable Laptop Stand,STD-010,1,34.99,9,26,1.75,0,42.24,Completed
+ORD-2026-0614,Silicone Phone Case iPhone 15,CAS-009,1,14.99,11.9,11.9,0.75,0,26.14,Completed
+ORD-2026-0615,Waterproof Sports Smartwatch,WTC-006,1,79.99,11.4,11.4,4,0,87.39,Completed
+ORD-2026-0616,Ergonomic Office Chair,CHR-002,3,449.97,11.7,22.82,22.5,0,439.17,Completed
+ORD-2026-0617,Ultra-Wide USB-C Monitor,MON-004,1,299.99,9.6,26.44,15,0,294.59,Completed
+ORD-2026-0618,Silicone Phone Case iPhone 15,CAS-009,1,14.99,9.9,9.9,0.75,5,19.14,Completed
+ORD-2026-0619,Fast Charging Cable Type-C,CAB-005,1,19.99,9.4,9.4,5,0,24.39,Completed
+ORD-2026-0620,Ergonomic Office Chair,CHR-002,1,149.99,9.2,9.2,7.5,0,151.69,Completed
+ORD-2026-0621,Fast Charging Cable Type-C,CAB-005,1,19.99,9.2,9.2,1,0,28.19,Completed
+ORD-2026-0622,Noise Cancelling Headphones,HDP-008,1,129.99,10.1,10.1,6.5,0,133.59,Completed
+ORD-2026-0623,Fast Charging Cable Type-C,CAB-005,1,19.99,12.4,12.4,1,0,31.39,Completed
+ORD-2026-0624,Premium Wireless Earbuds,EAR-001,1,59.99,9.8,9.8,3,0,66.79,Completed
+ORD-2026-0625,Waterproof Sports Smartwatch,WTC-006,1,79.99,6.1,6.1,4,5,77.09,Completed
+ORD-2026-0626,Ergonomic Office Chair,CHR-002,1,149.99,4.7,15.9,7.5,10,137.19,Completed
+ORD-2026-0627,Ergonomic Office Chair,CHR-002,1,149.99,8,8,7.5,0,150.49,Completed
+ORD-2026-0628,Mechanical Gaming Keyboard,KEY-003,1,89.99,12.7,12.7,4.5,0,98.19,Completed
+ORD-2026-0629,Ergonomic Office Chair,CHR-002,1,149.99,9.4,9.4,7.5,0,151.89,Completed
+ORD-2026-0630,Ergonomic Office Chair,CHR-002,1,149.99,6.5,6.5,7.5,0,148.99,Completed
+ORD-2026-0631,Portable Power Bank 20000mAh,PWR-007,1,39.99,12.2,12.2,2,5,45.19,Completed
+ORD-2026-0632,Premium Wireless Earbuds,EAR-001,1,59.99,8.6,8.6,3,0,65.59,Completed
+ORD-2026-0633,Silicone Phone Case iPhone 15,CAS-009,1,14.99,4.6,4.6,0.75,0,18.84,Completed
+ORD-2026-0634,Adjustable Laptop Stand,STD-010,1,34.99,10,10,1.75,0,43.24,Completed
+ORD-2026-0635,Ergonomic Office Chair,CHR-002,1,149.99,8.6,8.6,7.5,0,151.09,Completed
+ORD-2026-0636,Ergonomic Office Chair,CHR-002,1,149.99,8.7,8.7,7.5,0,151.19,Completed
+ORD-2026-0637,Fast Charging Cable Type-C,CAB-005,1,19.99,4,4,1,0,22.99,Completed
+ORD-2026-0638,Premium Wireless Earbuds,EAR-001,1,59.99,9.8,9.8,3,0,66.79,Completed
+ORD-2026-0639,Waterproof Sports Smartwatch,WTC-006,1,79.99,9.8,9.8,4,10,75.79,Completed
+ORD-2026-0640,Mechanical Gaming Keyboard,KEY-003,1,89.99,12.5,12.5,4.5,0,97.99,Completed
+ORD-2026-0641,Adjustable Laptop Stand,STD-010,1,34.99,4.3,4.3,1.75,10,27.54,Completed
+ORD-2026-0642,Fast Charging Cable Type-C,CAB-005,1,19.99,6.9,6.9,1,0,25.89,Completed
+ORD-2026-0643,Noise Cancelling Headphones,HDP-008,2,259.98,8.8,14.75,13,0,255.78,Completed
+ORD-2026-0644,Adjustable Laptop Stand,STD-010,1,34.99,10.8,10.8,1.75,0,44.04,Completed
+ORD-2026-0645,Ultra-Wide USB-C Monitor,MON-004,1,299.99,9.4,9.4,15,0,294.39,Completed
+ORD-2026-0646,Silicone Phone Case iPhone 15,CAS-009,1,14.99,12.1,12.1,0.75,0,26.34,Completed
+ORD-2026-0647,Fast Charging Cable Type-C,CAB-005,1,19.99,8.4,8.4,1,0,27.39,Completed
+ORD-2026-0648,Adjustable Laptop Stand,STD-010,1,34.99,10.2,10.2,1.75,5,38.44,Completed
+ORD-2026-0649,Fast Charging Cable Type-C,CAB-005,1,19.99,7.1,7.1,1,0,26.09,Completed
+ORD-2026-0650,Fast Charging Cable Type-C,CAB-005,1,19.99,8.9,21.66,1,0,27.89,Completed
+ORD-2026-0651,Adjustable Laptop Stand,STD-010,1,34.99,9.5,9.5,1.75,0,42.74,Completed
+ORD-2026-0652,Ergonomic Office Chair,CHR-002,1,149.99,3.1,3.1,7.5,0,145.59,Completed
+ORD-2026-0653,Ultra-Wide USB-C Monitor,MON-004,1,299.99,3.5,3.5,15,0,288.49,Completed
+ORD-2026-0654,Fast Charging Cable Type-C,CAB-005,1,19.99,6,6,1,0,24.99,Completed
+ORD-2026-0655,Portable Power Bank 20000mAh,PWR-007,1,39.99,11.9,11.9,2,0,49.89,Completed
+ORD-2026-0656,Premium Wireless Earbuds,EAR-001,1,59.99,5.5,5.5,3,0,62.49,Completed
+ORD-2026-0657,Ultra-Wide USB-C Monitor,MON-004,1,299.99,12,12,15,0,296.99,Completed
+ORD-2026-0658,Adjustable Laptop Stand,STD-010,1,34.99,12.9,31.92,1.75,0,46.14,Completed
+ORD-2026-0659,Premium Wireless Earbuds,EAR-001,1,59.99,3.7,3.7,3,0,60.69,Completed
+ORD-2026-0660,Noise Cancelling Headphones,HDP-008,1,129.99,8.2,8.2,6.5,0,131.69,Completed
+ORD-2026-0661,Silicone Phone Case iPhone 15,CAS-009,1,14.99,4,4,0.75,0,18.24,Completed
+ORD-2026-0662,Fast Charging Cable Type-C,CAB-005,1,19.99,10.8,10.8,1,0,29.79,Completed
+ORD-2026-0663,Portable Power Bank 20000mAh,PWR-007,1,39.99,4.2,4.2,2,0,42.19,Completed
+ORD-2026-0664,Waterproof Sports Smartwatch,WTC-006,1,79.99,11,23.29,4,0,86.99,Completed
+ORD-2026-0665,Noise Cancelling Headphones,HDP-008,1,129.99,7.4,7.4,6.5,0,130.89,Completed
+ORD-2026-0666,Noise Cancelling Headphones,HDP-008,1,129.99,9.2,9.2,6.5,5,127.69,Completed
+ORD-2026-0667,Premium Wireless Earbuds,EAR-001,1,59.99,13,13,3,0,69.99,Completed
+ORD-2026-0668,Waterproof Sports Smartwatch,WTC-006,1,79.99,10.6,10.6,4,10,76.59,Completed
+ORD-2026-0669,Waterproof Sports Smartwatch,WTC-006,1,79.99,7,14.58,4,0,82.99,Completed
+ORD-2026-0670,Noise Cancelling Headphones,HDP-008,1,129.99,9.4,28.24,6.5,0,132.89,Completed
+ORD-2026-0671,Silicone Phone Case iPhone 15,CAS-009,1,14.99,8.8,8.8,0.75,5,18.04,Completed
+ORD-2026-0672,Portable Power Bank 20000mAh,PWR-007,1,39.99,7,12.4,2,5,39.99,Completed
+ORD-2026-0673,Waterproof Sports Smartwatch,WTC-006,1,79.99,11.9,11.9,4,0,87.89,Completed
+ORD-2026-0674,Noise Cancelling Headphones,HDP-008,1,129.99,6.4,6.4,6.5,0,129.89,Completed
+ORD-2026-0675,Fast Charging Cable Type-C,CAB-005,1,19.99,8.5,8.5,1,0,27.49,Completed
+ORD-2026-0676,Portable Power Bank 20000mAh,PWR-007,1,39.99,4.3,4.3,2,0,42.29,Completed
+ORD-2026-0677,Noise Cancelling Headphones,HDP-008,1,129.99,12.2,22.72,6.5,0,135.69,Completed
+ORD-2026-0678,Portable Power Bank 20000mAh,PWR-007,1,39.99,11.3,11.3,2,10,39.29,Completed
+ORD-2026-0679,Ultra-Wide USB-C Monitor,MON-004,1,299.99,6.3,6.3,15,0,291.29,Completed
+ORD-2026-0680,Noise Cancelling Headphones,HDP-008,1,129.99,5,5,6.5,0,128.49,Completed
+ORD-2026-0681,Portable Power Bank 20000mAh,PWR-007,1,39.99,12.6,12.6,2,0,50.59,Completed
+ORD-2026-0682,Adjustable Laptop Stand,STD-010,1,34.99,4.5,4.5,1.75,10,27.74,Completed
+ORD-2026-0683,Mechanical Gaming Keyboard,KEY-003,1,89.99,12.2,12.2,4.5,0,97.69,Completed
+ORD-2026-0684,Ultra-Wide USB-C Monitor,MON-004,1,299.99,11.6,11.6,15,0,296.59,Completed
+ORD-2026-0685,Ultra-Wide USB-C Monitor,MON-004,1,299.99,11.5,11.5,15,0,296.49,Completed
+ORD-2026-0686,Ergonomic Office Chair,CHR-002,1,149.99,6.1,23.33,7.5,0,148.59,Completed
+ORD-2026-0687,Fast Charging Cable Type-C,CAB-005,1,19.99,5.4,5.4,1,5,19.39,Completed
+ORD-2026-0688,Mechanical Gaming Keyboard,KEY-003,1,89.99,7.5,7.5,4.5,10,82.99,Completed
+ORD-2026-0689,Premium Wireless Earbuds,EAR-001,1,59.99,9,9,3,0,65.99,Completed
+ORD-2026-0690,Premium Wireless Earbuds,EAR-001,3,179.97,12.4,12.4,44.99,0,147.38,Completed
+ORD-2026-0691,Portable Power Bank 20000mAh,PWR-007,1,39.99,3,3,2,10,30.99,Completed
+ORD-2026-0692,Portable Power Bank 20000mAh,PWR-007,1,39.99,7.9,7.9,2,10,35.89,Completed
+ORD-2026-0693,Ergonomic Office Chair,CHR-002,1,149.99,3.4,21.78,7.5,10,135.89,Completed
+ORD-2026-0694,Mechanical Gaming Keyboard,KEY-003,1,89.99,3.4,16.06,4.5,0,88.89,Completed
+ORD-2026-0695,Ultra-Wide USB-C Monitor,MON-004,1,299.99,5,5,15,5,284.99,Completed
+ORD-2026-0696,Waterproof Sports Smartwatch,WTC-006,1,79.99,4.6,4.6,4,0,80.59,Completed
+ORD-2026-0697,Waterproof Sports Smartwatch,WTC-006,1,79.99,4.9,4.9,4,0,80.89,Completed
+ORD-2026-0698,Fast Charging Cable Type-C,CAB-005,1,19.99,9.7,9.7,1,0,28.69,Completed
+ORD-2026-0699,Adjustable Laptop Stand,STD-010,1,34.99,10.1,10.1,1.75,0,43.34,Completed
+ORD-2026-0700,Mechanical Gaming Keyboard,KEY-003,1,89.99,7.4,7.4,4.5,0,92.89,Completed
+ORD-2026-0701,Ultra-Wide USB-C Monitor,MON-004,1,299.99,12.4,12.4,15,0,297.39,Completed
+ORD-2026-0702,Ultra-Wide USB-C Monitor,MON-004,1,299.99,6.1,12.25,15,0,291.09,Completed
+ORD-2026-0703,Ultra-Wide USB-C Monitor,MON-004,1,299.99,9.8,9.8,15,0,294.79,Completed
+ORD-2026-0704,Waterproof Sports Smartwatch,WTC-006,1,79.99,4.7,4.7,4,0,80.69,Completed
+ORD-2026-0705,Noise Cancelling Headphones,HDP-008,1,129.99,8.9,16.56,6.5,0,132.39,Completed
+ORD-2026-0706,Portable Power Bank 20000mAh,PWR-007,1,39.99,3.6,3.6,2,0,41.59,Completed
+ORD-2026-0707,Ergonomic Office Chair,CHR-002,1,149.99,5.3,5.3,7.5,0,147.79,Completed
+ORD-2026-0708,Portable Power Bank 20000mAh,PWR-007,1,39.99,9.9,9.9,2,0,47.89,Completed
+ORD-2026-0709,Ergonomic Office Chair,CHR-002,3,449.97,4,4,22.5,0,431.47,Completed
+ORD-2026-0710,Portable Power Bank 20000mAh,PWR-007,1,39.99,10.7,10.7,2,10,38.69,Completed
+ORD-2026-0711,Waterproof Sports Smartwatch,WTC-006,1,79.99,4,4,4,0,79.99,Completed
+ORD-2026-0712,Silicone Phone Case iPhone 15,CAS-009,1,14.99,9.3,9.3,0.75,0,23.54,Completed
+ORD-2026-0713,Premium Wireless Earbuds,EAR-001,1,59.99,10.2,10.2,3,0,67.19,Completed
+ORD-2026-0714,Mechanical Gaming Keyboard,KEY-003,1,89.99,4.3,4.3,4.5,0,89.79,Completed
+ORD-2026-0715,Noise Cancelling Headphones,HDP-008,1,129.99,3.5,3.5,6.5,0,126.99,Completed
+ORD-2026-0716,Noise Cancelling Headphones,HDP-008,1,129.99,5.7,5.7,6.5,0,129.19,Completed
+ORD-2026-0717,Ultra-Wide USB-C Monitor,MON-004,1,299.99,8,19.02,15,0,292.99,Completed
+ORD-2026-0718,Portable Power Bank 20000mAh,PWR-007,1,39.99,10.5,10.5,2,10,38.49,Completed
+ORD-2026-0719,Ergonomic Office Chair,CHR-002,1,149.99,12.1,12.1,7.5,0,154.59,Completed
+ORD-2026-0720,Noise Cancelling Headphones,HDP-008,3,389.97,8.6,8.6,19.5,0,379.07,Completed
+ORD-2026-0721,Noise Cancelling Headphones,HDP-008,1,129.99,8.5,8.5,6.5,10,121.99,Completed
+ORD-2026-0722,Ultra-Wide USB-C Monitor,MON-004,1,299.99,7.9,7.9,15,5,287.89,Completed
+ORD-2026-0723,Noise Cancelling Headphones,HDP-008,1,129.99,11.9,11.9,6.5,0,135.39,Completed
+ORD-2026-0724,Ultra-Wide USB-C Monitor,MON-004,1,299.99,6.4,21.7,15,0,291.39,Completed
+ORD-2026-0725,Portable Power Bank 20000mAh,PWR-007,1,39.99,12.5,12.5,2,0,50.49,Completed
+ORD-2026-0726,Silicone Phone Case iPhone 15,CAS-009,3,44.97,5.7,5.7,2.25,0,48.42,Completed
+ORD-2026-0727,Waterproof Sports Smartwatch,WTC-006,1,79.99,9.5,9.5,4,5,80.49,Completed
+ORD-2026-0728,Silicone Phone Case iPhone 15,CAS-009,1,14.99,3.1,3.1,0.75,5,12.34,Completed
+ORD-2026-0729,Portable Power Bank 20000mAh,PWR-007,1,39.99,9.2,21.09,2,0,47.19,Completed
+ORD-2026-0730,Ergonomic Office Chair,CHR-002,1,149.99,4.6,4.6,7.5,0,147.09,Completed
+ORD-2026-0731,Fast Charging Cable Type-C,CAB-005,1,19.99,12.5,12.5,1,0,31.49,Completed
+ORD-2026-0732,Mechanical Gaming Keyboard,KEY-003,1,89.99,12.4,12.4,4.5,0,97.89,Completed
+ORD-2026-0733,Fast Charging Cable Type-C,CAB-005,1,19.99,10.2,10.2,1,0,29.19,Completed
+ORD-2026-0734,Ultra-Wide USB-C Monitor,MON-004,1,299.99,4.8,4.8,15,0,289.79,Completed
+ORD-2026-0735,Premium Wireless Earbuds,EAR-001,1,59.99,11.4,11.4,3,0,68.39,Completed
+ORD-2026-0736,Ergonomic Office Chair,CHR-002,1,149.99,5.7,5.7,7.5,10,138.19,Completed
+ORD-2026-0737,Ultra-Wide USB-C Monitor,MON-004,1,299.99,10.8,10.8,15,0,295.79,Completed
+ORD-2026-0738,Portable Power Bank 20000mAh,PWR-007,1,39.99,12.4,12.4,2,5,45.39,Completed
+ORD-2026-0739,Portable Power Bank 20000mAh,PWR-007,1,39.99,9.7,9.7,2,10,37.69,Completed
+ORD-2026-0740,Mechanical Gaming Keyboard,KEY-003,1,89.99,9.1,9.1,4.5,10,84.59,Completed
+ORD-2026-0741,Waterproof Sports Smartwatch,WTC-006,1,79.99,8.2,8.2,4,5,79.19,Completed
+ORD-2026-0742,Adjustable Laptop Stand,STD-010,1,34.99,10,10,1.75,0,43.24,Completed
+ORD-2026-0743,Noise Cancelling Headphones,HDP-008,1,129.99,11.2,11.2,6.5,0,134.69,Completed
+ORD-2026-0744,Silicone Phone Case iPhone 15,CAS-009,1,14.99,12.5,12.5,0.75,0,26.74,Completed
+ORD-2026-0745,Fast Charging Cable Type-C,CAB-005,1,19.99,3.5,3.5,1,0,22.49,Completed
+ORD-2026-0746,Silicone Phone Case iPhone 15,CAS-009,1,14.99,10.1,10.1,0.75,0,24.34,Completed
+ORD-2026-0747,Fast Charging Cable Type-C,CAB-005,1,19.99,12.5,12.5,1,0,31.49,Completed
+ORD-2026-0748,Mechanical Gaming Keyboard,KEY-003,1,89.99,9.9,9.9,4.5,0,95.39,Completed
+ORD-2026-0749,Ultra-Wide USB-C Monitor,MON-004,1,299.99,11.7,11.7,15,0,296.69,Completed
+ORD-2026-0750,Noise Cancelling Headphones,HDP-008,1,129.99,10.5,10.5,6.5,0,133.99,Completed
+ORD-2026-0751,Ergonomic Office Chair,CHR-002,1,149.99,12.3,30.67,7.5,10,144.79,Completed
+ORD-2026-0752,Premium Wireless Earbuds,EAR-001,3,179.97,9.1,9.1,9,0,180.07,Completed
+ORD-2026-0753,Ergonomic Office Chair,CHR-002,1,149.99,11.4,11.4,7.5,10,143.89,Completed
+ORD-2026-0754,Premium Wireless Earbuds,EAR-001,3,179.97,9,9,9,0,179.97,Completed
+ORD-2026-0755,Ergonomic Office Chair,CHR-002,1,149.99,6.6,6.6,7.5,0,149.09,Completed
+ORD-2026-0756,Adjustable Laptop Stand,STD-010,1,34.99,3.8,3.8,1.75,0,37.04,Completed
+ORD-2026-0757,Fast Charging Cable Type-C,CAB-005,1,19.99,7.4,7.4,1,0,26.39,Completed
+ORD-2026-0758,Mechanical Gaming Keyboard,KEY-003,1,89.99,3,14.1,4.5,0,88.49,Completed
+ORD-2026-0759,Portable Power Bank 20000mAh,PWR-007,3,119.97,8,8,6,0,121.97,Completed
+ORD-2026-0760,Ultra-Wide USB-C Monitor,MON-004,1,299.99,3.3,19.75,15,5,283.29,Completed
+ORD-2026-0761,Ultra-Wide USB-C Monitor,MON-004,1,299.99,6.9,6.9,15,0,291.89,Completed
+ORD-2026-0762,Silicone Phone Case iPhone 15,CAS-009,1,14.99,12,12,0.75,0,26.24,Completed
+ORD-2026-0763,Ergonomic Office Chair,CHR-002,1,149.99,4.5,4.5,7.5,0,146.99,Completed
+ORD-2026-0764,Mechanical Gaming Keyboard,KEY-003,1,89.99,6.2,6.2,4.5,0,91.69,Completed
+ORD-2026-0765,Silicone Phone Case iPhone 15,CAS-009,1,14.99,8.2,8.2,0.75,5,17.44,Completed
+ORD-2026-0766,Silicone Phone Case iPhone 15,CAS-009,1,14.99,7.2,7.2,0.75,0,21.44,Completed
+ORD-2026-0767,Adjustable Laptop Stand,STD-010,3,104.97,6.2,6.2,5.25,0,105.92,Completed
+ORD-2026-0768,Fast Charging Cable Type-C,CAB-005,1,19.99,8,8,1,5,21.99,Completed
+ORD-2026-0769,Waterproof Sports Smartwatch,WTC-006,1,79.99,4.7,4.7,4,0,80.69,Completed
+ORD-2026-0770,Waterproof Sports Smartwatch,WTC-006,3,239.97,7.6,7.6,12,0,235.57,Completed
+ORD-2026-0771,Silicone Phone Case iPhone 15,CAS-009,1,14.99,5.2,5.2,0.75,0,19.44,Completed
+ORD-2026-0772,Noise Cancelling Headphones,HDP-008,1,129.99,5.3,5.3,6.5,5,123.79,Completed
+ORD-2026-0773,Fast Charging Cable Type-C,CAB-005,2,39.98,9.5,9.5,2,0,47.48,Completed
+ORD-2026-0774,Waterproof Sports Smartwatch,WTC-006,1,79.99,6.8,6.8,4,0,82.79,Completed
+ORD-2026-0775,Adjustable Laptop Stand,STD-010,1,34.99,4.5,4.5,1.75,10,27.74,Completed
+ORD-2026-0776,Fast Charging Cable Type-C,CAB-005,1,19.99,12,12,1,0,30.99,Completed
+ORD-2026-0777,Noise Cancelling Headphones,HDP-008,1,129.99,8.3,8.3,6.5,0,131.79,Completed
+ORD-2026-0778,Ergonomic Office Chair,CHR-002,1,149.99,7,7,7.5,5,144.49,Completed
+ORD-2026-0779,Ergonomic Office Chair,CHR-002,1,149.99,8.7,8.7,7.5,10,141.19,Completed
+ORD-2026-0780,Waterproof Sports Smartwatch,WTC-006,1,79.99,3.4,3.4,4,0,79.39,Completed
+ORD-2026-0781,Noise Cancelling Headphones,HDP-008,1,129.99,10.3,10.3,6.5,0,133.79,Completed
+ORD-2026-0782,Ergonomic Office Chair,CHR-002,1,149.99,6.5,19.55,7.5,0,148.99,Completed
+ORD-2026-0783,Waterproof Sports Smartwatch,WTC-006,1,79.99,6.7,6.7,4,0,82.69,Completed
+ORD-2026-0784,Premium Wireless Earbuds,EAR-001,1,59.99,10.8,10.8,3,0,67.79,Completed
+ORD-2026-0785,Adjustable Laptop Stand,STD-010,1,34.99,12.5,12.5,1.75,0,45.74,Completed
+ORD-2026-0786,Noise Cancelling Headphones,HDP-008,1,129.99,9.3,9.3,6.5,10,122.79,Completed
+ORD-2026-0787,Ultra-Wide USB-C Monitor,MON-004,1,299.99,8.8,8.8,15,5,288.79,Completed
+ORD-2026-0788,Fast Charging Cable Type-C,CAB-005,1,19.99,7.2,7.2,1,0,26.19,Completed
+ORD-2026-0789,Premium Wireless Earbuds,EAR-001,1,59.99,12.9,12.9,3,5,64.89,Completed
+ORD-2026-0790,Premium Wireless Earbuds,EAR-001,1,59.99,12.5,12.5,3,0,69.49,Completed
+ORD-2026-0791,Ergonomic Office Chair,CHR-002,1,149.99,6.1,6.1,7.5,0,148.59,Completed
+ORD-2026-0792,Ergonomic Office Chair,CHR-002,1,149.99,7.5,7.5,7.5,0,149.99,Completed
+ORD-2026-0793,Portable Power Bank 20000mAh,PWR-007,2,79.98,7.7,7.7,4,0,83.68,Completed
+ORD-2026-0794,Fast Charging Cable Type-C,CAB-005,1,19.99,3.7,3.7,1,0,22.69,Completed
+ORD-2026-0795,Portable Power Bank 20000mAh,PWR-007,1,39.99,12.6,12.6,2,0,50.59,Completed
+ORD-2026-0796,Adjustable Laptop Stand,STD-010,1,34.99,5.6,5.6,1.75,0,38.84,Completed
+ORD-2026-0797,Waterproof Sports Smartwatch,WTC-006,3,239.97,9.2,9.2,12,10,227.17,Completed
+ORD-2026-0798,Ergonomic Office Chair,CHR-002,1,149.99,5.2,5.2,7.5,0,147.69,Completed
+ORD-2026-0799,Ergonomic Office Chair,CHR-002,1,149.99,11.9,11.9,7.5,0,154.39,Completed
+ORD-2026-0800,Adjustable Laptop Stand,STD-010,1,34.99,12.3,12.3,1.75,5,40.54,Completed
+ORD-2026-0801,Portable Power Bank 20000mAh,PWR-007,1,39.99,5.7,5.7,2,10,33.69,Completed
+ORD-2026-0802,Ultra-Wide USB-C Monitor,MON-004,1,299.99,6.3,6.3,15,0,291.29,Completed
+ORD-2026-0803,Silicone Phone Case iPhone 15,CAS-009,1,14.99,11,11,0.75,0,25.24,Completed
+ORD-2026-0804,Fast Charging Cable Type-C,CAB-005,1,19.99,12.9,12.9,1,0,31.89,Completed
+ORD-2026-0805,Noise Cancelling Headphones,HDP-008,1,129.99,8.3,8.3,6.5,10,121.79,Completed
+ORD-2026-0806,Fast Charging Cable Type-C,CAB-005,1,19.99,12.9,12.9,1,0,31.89,Completed
+ORD-2026-0807,Waterproof Sports Smartwatch,WTC-006,1,79.99,6.7,6.7,4,5,77.69,Completed
+ORD-2026-0808,Ergonomic Office Chair,CHR-002,1,149.99,6.5,6.5,7.5,0,148.99,Completed
+ORD-2026-0809,Premium Wireless Earbuds,EAR-001,3,179.97,4.1,4.1,9,0,175.07,Completed
+ORD-2026-0810,Waterproof Sports Smartwatch,WTC-006,1,79.99,3.6,3.6,4,5,74.59,Completed
+ORD-2026-0811,Waterproof Sports Smartwatch,WTC-006,1,79.99,10.8,10.8,4,0,86.79,Completed
+ORD-2026-0812,Silicone Phone Case iPhone 15,CAS-009,1,14.99,3.8,3.8,0.75,0,18.04,Completed
+ORD-2026-0813,Mechanical Gaming Keyboard,KEY-003,1,89.99,11.2,11.2,4.5,0,96.69,Completed
+ORD-2026-0814,Premium Wireless Earbuds,EAR-001,1,59.99,3.9,3.9,3,5,55.89,Completed
+ORD-2026-0815,Fast Charging Cable Type-C,CAB-005,1,19.99,3.9,3.9,1,0,22.89,Completed
+ORD-2026-0816,Fast Charging Cable Type-C,CAB-005,2,39.98,3.6,3.6,2,0,41.58,Completed
+ORD-2026-0817,Ergonomic Office Chair,CHR-002,1,149.99,6.6,6.6,7.5,5,144.09,Completed
+ORD-2026-0818,Silicone Phone Case iPhone 15,CAS-009,1,14.99,6.6,6.6,0.75,0,20.84,Completed
+ORD-2026-0819,Silicone Phone Case iPhone 15,CAS-009,1,14.99,4.7,4.7,0.75,0,18.94,Completed
+ORD-2026-0820,Fast Charging Cable Type-C,CAB-005,1,19.99,8.7,8.7,1,0,27.69,Completed
+ORD-2026-0821,Adjustable Laptop Stand,STD-010,1,34.99,9.2,9.2,1.75,0,42.44,Completed
+ORD-2026-0822,Ultra-Wide USB-C Monitor,MON-004,1,299.99,12.4,12.4,15,5,292.39,Completed
+ORD-2026-0823,Fast Charging Cable Type-C,CAB-005,1,19.99,12.1,12.1,1,5,26.09,Completed
+ORD-2026-0824,Waterproof Sports Smartwatch,WTC-006,1,79.99,5.8,5.8,4,0,81.79,Completed
+ORD-2026-0825,Noise Cancelling Headphones,HDP-008,1,129.99,12.6,12.6,6.5,0,136.09,Completed
+ORD-2026-0826,Silicone Phone Case iPhone 15,CAS-009,1,14.99,4.4,4.4,0.75,0,18.64,Completed
+ORD-2026-0827,Premium Wireless Earbuds,EAR-001,1,59.99,12.3,12.3,3,0,69.29,Completed
+ORD-2026-0828,Silicone Phone Case iPhone 15,CAS-009,1,14.99,12.4,12.4,0.75,0,26.64,Completed
+ORD-2026-0829,Premium Wireless Earbuds,EAR-001,1,59.99,5,5,15,0,49.99,Completed
+ORD-2026-0830,Adjustable Laptop Stand,STD-010,1,34.99,7.7,7.7,1.75,0,40.94,Completed
+ORD-2026-0831,Portable Power Bank 20000mAh,PWR-007,1,39.99,10.1,10.1,2,0,48.09,Completed
+ORD-2026-0832,Ergonomic Office Chair,CHR-002,1,149.99,11.9,11.9,7.5,0,154.39,Completed
+ORD-2026-0833,Waterproof Sports Smartwatch,WTC-006,1,79.99,6.2,6.2,4,5,77.19,Completed
+ORD-2026-0834,Adjustable Laptop Stand,STD-010,1,34.99,7.9,7.9,1.75,0,41.14,Completed
+ORD-2026-0835,Premium Wireless Earbuds,EAR-001,1,59.99,4.1,4.1,3,0,61.09,Completed
+ORD-2026-0836,Waterproof Sports Smartwatch,WTC-006,3,239.97,7.7,7.7,12,0,235.67,Completed
+ORD-2026-0837,Adjustable Laptop Stand,STD-010,1,34.99,8.8,14.3,1.75,0,42.04,Completed
+ORD-2026-0838,Waterproof Sports Smartwatch,WTC-006,1,79.99,5.9,5.9,4,10,71.89,Completed
+ORD-2026-0839,Adjustable Laptop Stand,STD-010,1,34.99,6.9,6.9,1.75,0,40.14,Completed
+ORD-2026-0840,Ergonomic Office Chair,CHR-002,1,149.99,7.9,7.9,7.5,0,150.39,Completed
+ORD-2026-0841,Ultra-Wide USB-C Monitor,MON-004,1,299.99,3.7,3.7,15,0,288.69,Completed
+ORD-2026-0842,Ultra-Wide USB-C Monitor,MON-004,1,299.99,8.3,8.3,15,0,293.29,Completed
+ORD-2026-0843,Adjustable Laptop Stand,STD-010,1,34.99,4.1,4.1,1.75,0,37.34,Completed
+ORD-2026-0844,Silicone Phone Case iPhone 15,CAS-009,1,14.99,9.4,9.4,0.75,0,23.64,Completed
+ORD-2026-0845,Silicone Phone Case iPhone 15,CAS-009,1,14.99,10.7,10.7,0.75,0,24.94,Completed
+ORD-2026-0846,Mechanical Gaming Keyboard,KEY-003,1,89.99,5,5,4.5,0,90.49,Completed
+ORD-2026-0847,Noise Cancelling Headphones,HDP-008,1,129.99,8.6,8.6,6.5,10,122.09,Completed
+ORD-2026-0848,Silicone Phone Case iPhone 15,CAS-009,2,29.98,9.3,9.3,1.5,0,37.78,Completed
+ORD-2026-0849,Ultra-Wide USB-C Monitor,MON-004,3,899.97,10.5,10.5,45,0,865.47,Completed
+ORD-2026-0850,Portable Power Bank 20000mAh,PWR-007,1,39.99,8.8,8.8,2,0,46.79,Completed
+ORD-2026-0851,Premium Wireless Earbuds,EAR-001,1,59.99,7.2,7.2,3,0,64.19,Completed
+ORD-2026-0852,Premium Wireless Earbuds,EAR-001,1,59.99,3.5,3.5,15,0,48.49,Completed
+ORD-2026-0853,Portable Power Bank 20000mAh,PWR-007,1,39.99,4.3,4.3,2,0,42.29,Completed
+ORD-2026-0854,Noise Cancelling Headphones,HDP-008,1,129.99,3.3,17.74,6.5,5,121.79,Completed
+ORD-2026-0855,Premium Wireless Earbuds,EAR-001,1,59.99,9.1,9.1,3,0,66.09,Completed
+ORD-2026-0856,Waterproof Sports Smartwatch,WTC-006,1,79.99,5.5,5.5,4,0,81.49,Completed
+ORD-2026-0857,Adjustable Laptop Stand,STD-010,1,34.99,7.3,7.3,1.75,0,40.54,Completed
+ORD-2026-0858,Mechanical Gaming Keyboard,KEY-003,1,89.99,4.8,4.8,4.5,0,90.29,Completed
+ORD-2026-0859,Ultra-Wide USB-C Monitor,MON-004,1,299.99,11.4,18.6,15,10,286.39,Completed
+ORD-2026-0860,Fast Charging Cable Type-C,CAB-005,1,19.99,5.2,5.2,1,0,24.19,Completed
+ORD-2026-0861,Noise Cancelling Headphones,HDP-008,1,129.99,10.9,10.9,6.5,0,134.39,Completed
+ORD-2026-0862,Noise Cancelling Headphones,HDP-008,1,129.99,3.3,3.3,6.5,10,116.79,Completed
+ORD-2026-0863,Ultra-Wide USB-C Monitor,MON-004,1,299.99,9.5,9.5,15,0,294.49,Completed
+ORD-2026-0864,Ultra-Wide USB-C Monitor,MON-004,1,299.99,6.9,6.9,15,10,281.89,Completed
+ORD-2026-0865,Noise Cancelling Headphones,HDP-008,1,129.99,6.6,6.6,6.5,0,130.09,Completed
+ORD-2026-0866,Waterproof Sports Smartwatch,WTC-006,1,79.99,8.4,8.4,4,0,84.39,Completed
+ORD-2026-0867,Silicone Phone Case iPhone 15,CAS-009,1,14.99,8.8,8.8,0.75,5,18.04,Completed
+ORD-2026-0868,Mechanical Gaming Keyboard,KEY-003,1,89.99,9.8,9.8,4.5,10,85.29,Completed
+ORD-2026-0869,Ultra-Wide USB-C Monitor,MON-004,1,299.99,6.1,6.1,15,0,291.09,Completed
+ORD-2026-0870,Silicone Phone Case iPhone 15,CAS-009,1,14.99,12.4,12.4,0.75,0,26.64,Completed
+ORD-2026-0871,Ultra-Wide USB-C Monitor,MON-004,1,299.99,12.8,12.8,15,0,297.79,Completed
+ORD-2026-0872,Mechanical Gaming Keyboard,KEY-003,1,89.99,12.6,12.6,4.5,0,98.09,Completed
+ORD-2026-0873,Adjustable Laptop Stand,STD-010,1,34.99,11.2,11.2,1.75,5,39.44,Completed
+ORD-2026-0874,Silicone Phone Case iPhone 15,CAS-009,1,14.99,4.5,4.5,0.75,0,18.74,Completed
+ORD-2026-0875,Noise Cancelling Headphones,HDP-008,1,129.99,6.3,6.3,6.5,10,119.79,Completed
+ORD-2026-0876,Premium Wireless Earbuds,EAR-001,1,59.99,8.4,8.4,3,5,60.39,Completed
+ORD-2026-0877,Ergonomic Office Chair,CHR-002,1,149.99,10.6,10.6,7.5,5,148.09,Completed
+ORD-2026-0878,Ultra-Wide USB-C Monitor,MON-004,1,299.99,4.8,4.8,15,0,289.79,Completed
+ORD-2026-0879,Mechanical Gaming Keyboard,KEY-003,1,89.99,6,6,4.5,0,91.49,Completed
+ORD-2026-0880,Ergonomic Office Chair,CHR-002,1,149.99,3.2,3.2,7.5,10,135.69,Completed
+ORD-2026-0881,Silicone Phone Case iPhone 15,CAS-009,1,14.99,8.6,8.6,0.75,0,22.84,Completed
+ORD-2026-0882,Adjustable Laptop Stand,STD-010,1,34.99,6,6,1.75,0,39.24,Completed
+ORD-2026-0883,Ergonomic Office Chair,CHR-002,1,149.99,4.7,4.7,7.5,0,147.19,Completed
+ORD-2026-0884,Ultra-Wide USB-C Monitor,MON-004,1,299.99,10.9,18.08,15,0,295.89,Completed
+ORD-2026-0885,Premium Wireless Earbuds,EAR-001,1,59.99,5,5,3,0,61.99,Completed
+ORD-2026-0886,Noise Cancelling Headphones,HDP-008,1,129.99,4.6,4.6,6.5,0,128.09,Completed
+ORD-2026-0887,Ultra-Wide USB-C Monitor,MON-004,2,599.98,5.4,5.4,30,0,575.38,Completed
+ORD-2026-0888,Ultra-Wide USB-C Monitor,MON-004,1,299.99,8.8,8.8,15,0,293.79,Completed
+ORD-2026-0889,Noise Cancelling Headphones,HDP-008,1,129.99,4.7,4.7,6.5,0,128.19,Completed
+ORD-2026-0890,Waterproof Sports Smartwatch,WTC-006,1,79.99,5.8,5.8,4,0,81.79,Completed
+ORD-2026-0891,Ultra-Wide USB-C Monitor,MON-004,1,299.99,9,9,15,0,293.99,Completed
+ORD-2026-0892,Portable Power Bank 20000mAh,PWR-007,3,119.97,12.9,12.9,6,0,126.87,Completed
+ORD-2026-0893,Fast Charging Cable Type-C,CAB-005,2,39.98,11.8,11.8,2,0,49.78,Completed
+ORD-2026-0894,Ergonomic Office Chair,CHR-002,1,149.99,5.2,5.2,7.5,0,147.69,Completed
+ORD-2026-0895,Fast Charging Cable Type-C,CAB-005,1,19.99,8.3,8.3,1,10,17.29,Completed
+ORD-2026-0896,Silicone Phone Case iPhone 15,CAS-009,1,14.99,5.7,5.7,0.75,0,19.94,Completed
+ORD-2026-0897,Noise Cancelling Headphones,HDP-008,1,129.99,9.9,9.9,6.5,0,133.39,Completed
+ORD-2026-0898,Fast Charging Cable Type-C,CAB-005,1,19.99,3.9,3.9,1,10,12.89,Completed
+ORD-2026-0899,Ultra-Wide USB-C Monitor,MON-004,1,299.99,7.5,7.5,15,0,292.49,Completed
+ORD-2026-0900,Fast Charging Cable Type-C,CAB-005,1,19.99,3.6,3.6,1,5,17.59,Completed
+ORD-2026-0901,Noise Cancelling Headphones,HDP-008,1,129.99,4.9,4.9,6.5,5,123.39,Completed
+ORD-2026-0902,Adjustable Laptop Stand,STD-010,1,34.99,6,6,1.75,0,39.24,Completed
+ORD-2026-0903,Ultra-Wide USB-C Monitor,MON-004,1,299.99,10.9,27.96,15,10,285.89,Completed
+ORD-2026-0904,Adjustable Laptop Stand,STD-010,1,34.99,6.5,6.5,1.75,0,39.74,Completed
+ORD-2026-0905,Portable Power Bank 20000mAh,PWR-007,1,39.99,3.1,3.1,2,10,31.09,Completed
+ORD-2026-0906,Fast Charging Cable Type-C,CAB-005,1,19.99,3.7,3.7,1,0,22.69,Completed
+ORD-2026-0907,Premium Wireless Earbuds,EAR-001,1,59.99,7.4,7.4,3,10,54.39,Completed
+ORD-2026-0908,Ergonomic Office Chair,CHR-002,1,149.99,4.7,4.7,7.5,0,147.19,Completed
+ORD-2026-0909,Waterproof Sports Smartwatch,WTC-006,1,79.99,11.3,11.3,4,0,87.29,Completed
+ORD-2026-0910,Adjustable Laptop Stand,STD-010,1,34.99,3.2,3.2,1.75,0,36.44,Completed
+ORD-2026-0911,Fast Charging Cable Type-C,CAB-005,1,19.99,10,10,1,0,28.99,Completed
+ORD-2026-0912,Ultra-Wide USB-C Monitor,MON-004,1,299.99,3.5,3.5,15,0,288.49,Completed
+ORD-2026-0913,Waterproof Sports Smartwatch,WTC-006,1,79.99,12.2,12.2,4,5,83.19,Completed
+ORD-2026-0914,Silicone Phone Case iPhone 15,CAS-009,1,14.99,3.4,13.72,0.75,10,7.64,Completed
+ORD-2026-0915,Fast Charging Cable Type-C,CAB-005,1,19.99,11.7,11.7,1,0,30.69,Completed
+ORD-2026-0916,Adjustable Laptop Stand,STD-010,1,34.99,8.8,8.8,1.75,0,42.04,Completed
+ORD-2026-0917,Ergonomic Office Chair,CHR-002,1,149.99,3.3,3.3,7.5,0,145.79,Completed
+ORD-2026-0918,Mechanical Gaming Keyboard,KEY-003,1,89.99,7.5,7.5,4.5,0,92.99,Completed
+ORD-2026-0919,Waterproof Sports Smartwatch,WTC-006,1,79.99,9.5,9.5,4,0,85.49,Completed
+ORD-2026-0920,Ergonomic Office Chair,CHR-002,1,149.99,4.2,4.2,7.5,10,136.69,Completed
+ORD-2026-0921,Mechanical Gaming Keyboard,KEY-003,1,89.99,6.8,6.8,4.5,10,82.29,Completed
+ORD-2026-0922,Portable Power Bank 20000mAh,PWR-007,1,39.99,8.9,8.9,2,0,46.89,Completed
+ORD-2026-0923,Portable Power Bank 20000mAh,PWR-007,1,39.99,12.6,12.6,2,0,50.59,Completed
+ORD-2026-0924,Mechanical Gaming Keyboard,KEY-003,1,89.99,8.1,8.1,4.5,0,93.59,Completed
+ORD-2026-0925,Premium Wireless Earbuds,EAR-001,1,59.99,8.8,8.8,3,5,60.79,Completed
+ORD-2026-0926,Portable Power Bank 20000mAh,PWR-007,1,39.99,6.6,6.6,2,0,44.59,Completed
+ORD-2026-0927,Ergonomic Office Chair,CHR-002,3,449.97,3.1,3.1,22.5,0,430.57,Completed
+ORD-2026-0928,Premium Wireless Earbuds,EAR-001,1,59.99,8.3,8.3,3,0,65.29,Completed
+ORD-2026-0929,Waterproof Sports Smartwatch,WTC-006,1,79.99,4.1,4.1,4,10,70.09,Completed
+ORD-2026-0930,Ultra-Wide USB-C Monitor,MON-004,2,599.98,7.5,7.5,30,0,577.48,Completed
+ORD-2026-0931,Ultra-Wide USB-C Monitor,MON-004,1,299.99,4,4,15,0,288.99,Completed
+ORD-2026-0932,Ergonomic Office Chair,CHR-002,1,149.99,8.3,8.3,7.5,0,150.79,Completed
+ORD-2026-0933,Waterproof Sports Smartwatch,WTC-006,1,79.99,11.5,19.53,4,0,87.49,Completed
+ORD-2026-0934,Adjustable Laptop Stand,STD-010,1,34.99,8.4,18.89,1.75,0,41.64,Completed
+ORD-2026-0935,Adjustable Laptop Stand,STD-010,1,34.99,4.5,4.5,1.75,0,37.74,Completed
+ORD-2026-0936,Ultra-Wide USB-C Monitor,MON-004,1,299.99,7.5,7.5,15,10,282.49,Completed
+ORD-2026-0937,Adjustable Laptop Stand,STD-010,1,34.99,7.9,22.08,1.75,5,36.14,Completed
+ORD-2026-0938,Mechanical Gaming Keyboard,KEY-003,1,89.99,9.5,9.5,4.5,0,94.99,Completed
+ORD-2026-0939,Adjustable Laptop Stand,STD-010,1,34.99,12.1,12.1,1.75,0,45.34,Completed
+ORD-2026-0940,Ergonomic Office Chair,CHR-002,1,149.99,11.1,11.1,7.5,0,153.59,Completed
+ORD-2026-0941,Ultra-Wide USB-C Monitor,MON-004,1,299.99,9.6,9.6,15,5,289.59,Completed
+ORD-2026-0942,Ultra-Wide USB-C Monitor,MON-004,1,299.99,11,11,15,0,295.99,Completed
+ORD-2026-0943,Ultra-Wide USB-C Monitor,MON-004,1,299.99,4.7,4.7,15,0,289.69,Completed
+ORD-2026-0944,Ultra-Wide USB-C Monitor,MON-004,1,299.99,8.9,8.9,15,10,283.89,Completed
+ORD-2026-0945,Adjustable Laptop Stand,STD-010,1,34.99,7.8,7.8,1.75,0,41.04,Completed
+ORD-2026-0946,Premium Wireless Earbuds,EAR-001,1,59.99,10.1,10.1,3,10,57.09,Completed
+ORD-2026-0947,Ergonomic Office Chair,CHR-002,1,149.99,8,8,7.5,5,145.49,Completed
+ORD-2026-0948,Ultra-Wide USB-C Monitor,MON-004,1,299.99,3.7,3.7,15,5,283.69,Completed
+ORD-2026-0949,Ergonomic Office Chair,CHR-002,1,149.99,10.2,10.2,7.5,0,152.69,Completed
+ORD-2026-0950,Adjustable Laptop Stand,STD-010,1,34.99,4.3,4.3,1.75,0,37.54,Completed
+ORD-2026-0951,Portable Power Bank 20000mAh,PWR-007,1,39.99,10.4,10.4,2,0,48.39,Completed
+ORD-2026-0952,Premium Wireless Earbuds,EAR-001,1,59.99,3.8,3.8,3,0,60.79,Completed
+ORD-2026-0953,Mechanical Gaming Keyboard,KEY-003,1,89.99,8.5,8.5,4.5,10,83.99,Completed
+ORD-2026-0954,Waterproof Sports Smartwatch,WTC-006,1,79.99,7.3,7.3,4,0,83.29,Completed
+ORD-2026-0955,Ultra-Wide USB-C Monitor,MON-004,1,299.99,12.8,29.94,15,5,292.79,Completed
+ORD-2026-0956,Fast Charging Cable Type-C,CAB-005,2,39.98,7.9,7.9,2,0,45.88,Completed
+ORD-2026-0957,Waterproof Sports Smartwatch,WTC-006,1,79.99,3.4,3.4,4,0,79.39,Completed
+ORD-2026-0958,Premium Wireless Earbuds,EAR-001,1,59.99,9.1,9.1,3,5,61.09,Completed
+ORD-2026-0959,Waterproof Sports Smartwatch,WTC-006,3,239.97,12.4,12.4,12,0,240.37,Completed
+ORD-2026-0960,Ergonomic Office Chair,CHR-002,1,149.99,4.5,4.5,7.5,0,146.99,Completed
+ORD-2026-0961,Ultra-Wide USB-C Monitor,MON-004,1,299.99,10.3,10.3,15,0,295.29,Completed
+ORD-2026-0962,Mechanical Gaming Keyboard,KEY-003,1,89.99,6.5,6.5,4.5,0,91.99,Completed
+ORD-2026-0963,Adjustable Laptop Stand,STD-010,1,34.99,4.3,4.3,1.75,5,32.54,Completed
+ORD-2026-0964,Ergonomic Office Chair,CHR-002,2,299.98,5.9,5.9,15,10,280.88,Completed
+ORD-2026-0965,Waterproof Sports Smartwatch,WTC-006,1,79.99,12.7,12.7,4,0,88.69,Completed
+ORD-2026-0966,Fast Charging Cable Type-C,CAB-005,1,19.99,4.3,4.3,1,0,23.29,Completed
+ORD-2026-0967,Premium Wireless Earbuds,EAR-001,1,59.99,8.2,8.2,3,0,65.19,Completed
+ORD-2026-0968,Mechanical Gaming Keyboard,KEY-003,1,89.99,8.9,8.9,4.5,0,94.39,Completed
+ORD-2026-0969,Noise Cancelling Headphones,HDP-008,1,129.99,8.4,8.4,6.5,0,131.89,Completed
+ORD-2026-0970,Mechanical Gaming Keyboard,KEY-003,1,89.99,12.9,12.9,4.5,0,98.39,Completed
+ORD-2026-0971,Waterproof Sports Smartwatch,WTC-006,1,79.99,6.8,21.19,4,5,77.79,Completed
+ORD-2026-0972,Portable Power Bank 20000mAh,PWR-007,1,39.99,4.3,4.3,2,0,42.29,Completed
+ORD-2026-0973,Mechanical Gaming Keyboard,KEY-003,1,89.99,12.1,12.1,4.5,0,97.59,Completed
+ORD-2026-0974,Silicone Phone Case iPhone 15,CAS-009,1,14.99,8.9,8.9,0.75,0,23.14,Completed
+ORD-2026-0975,Mechanical Gaming Keyboard,KEY-003,1,89.99,6.8,6.8,4.5,0,92.29,Completed
+ORD-2026-0976,Silicone Phone Case iPhone 15,CAS-009,1,14.99,6.8,22.4,0.75,0,21.04,Completed
+ORD-2026-0977,Silicone Phone Case iPhone 15,CAS-009,1,14.99,10.5,10.5,0.75,0,24.74,Completed
+ORD-2026-0978,Premium Wireless Earbuds,EAR-001,2,119.98,3.2,3.2,6,5,112.18,Completed
+ORD-2026-0979,Portable Power Bank 20000mAh,PWR-007,1,39.99,10.3,10.3,2,0,48.29,Completed
+ORD-2026-0980,Ergonomic Office Chair,CHR-002,1,149.99,4.2,4.2,7.5,0,146.69,Completed
+ORD-2026-0981,Premium Wireless Earbuds,EAR-001,1,59.99,4.3,4.3,3,0,61.29,Completed
+ORD-2026-0982,Adjustable Laptop Stand,STD-010,1,34.99,10.6,10.6,1.75,0,43.84,Completed
+ORD-2026-0983,Mechanical Gaming Keyboard,KEY-003,1,89.99,12.4,12.4,4.5,0,97.89,Completed
+ORD-2026-0984,Premium Wireless Earbuds,EAR-001,1,59.99,10.5,10.5,3,0,67.49,Completed
+ORD-2026-0985,Fast Charging Cable Type-C,CAB-005,1,19.99,6.8,6.8,1,0,25.79,Completed
+ORD-2026-0986,Fast Charging Cable Type-C,CAB-005,1,19.99,10.7,10.7,1,0,29.69,Completed
+ORD-2026-0987,Portable Power Bank 20000mAh,PWR-007,1,39.99,7,7,10,5,31.99,Completed
+ORD-2026-0988,Adjustable Laptop Stand,STD-010,3,104.97,12.7,12.7,5.25,0,112.42,Completed
+ORD-2026-0989,Ultra-Wide USB-C Monitor,MON-004,1,299.99,12.5,12.5,15,0,297.49,Completed
+ORD-2026-0990,Noise Cancelling Headphones,HDP-008,1,129.99,7.2,7.2,6.5,10,120.69,Completed
+ORD-2026-0991,Premium Wireless Earbuds,EAR-001,1,59.99,3.9,3.9,3,5,55.89,Completed
+ORD-2026-0992,Noise Cancelling Headphones,HDP-008,1,129.99,7.7,7.7,6.5,0,131.19,Completed
+ORD-2026-0993,Noise Cancelling Headphones,HDP-008,1,129.99,12.4,12.4,6.5,0,135.89,Completed
+ORD-2026-0994,Adjustable Laptop Stand,STD-010,1,34.99,11.4,11.4,1.75,0,44.64,Completed
+ORD-2026-0995,Mechanical Gaming Keyboard,KEY-003,1,89.99,5.6,5.6,4.5,10,81.09,Completed
+ORD-2026-0996,Waterproof Sports Smartwatch,WTC-006,1,79.99,4.3,4.3,4,0,80.29,Completed
+ORD-2026-0997,Portable Power Bank 20000mAh,PWR-007,3,119.97,10.6,10.6,6,0,124.57,Completed
+ORD-2026-0998,Portable Power Bank 20000mAh,PWR-007,1,39.99,12,31.96,2,0,49.99,Completed
+ORD-2026-0999,Fast Charging Cable Type-C,CAB-005,1,19.99,4.9,4.9,1,10,13.89,Completed
+ORD-2026-1000,Premium Wireless Earbuds,EAR-001,1,59.99,8.5,8.5,3,0,65.49,Completed
