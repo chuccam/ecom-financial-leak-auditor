@@ -79,10 +79,25 @@ db.collection('analysis_requests')
                 console.log(`✅ Successfully completed and updated results on Firestore for request ID: ${docId}`);
             } catch (error) {
                 console.error(`❌ Error processing request ID ${docId}:`, error);
+                
+                // Translate system error into user-friendly message
+                let friendlyError = 'The auditing engine encountered a temporary problem. Please try again.';
+                const errMsg = error.message || '';
+                
+                if (errMsg.includes('503') || errMsg.includes('Service Unavailable') || errMsg.includes('high demand')) {
+                    friendlyError = 'The AI analyst is temporarily busy due to high demand. Please try again in a few moments.';
+                } else if (errMsg.includes('429') || errMsg.includes('Quota exceeded') || errMsg.includes('rate limit')) {
+                    friendlyError = 'System rate limit exceeded. Please wait a minute and try again.';
+                } else if (errMsg.includes('API key') || errMsg.includes('key not found') || errMsg.includes('API_KEY')) {
+                    friendlyError = 'Configuration error: AI service credentials are misconfigured. Please check setup.';
+                } else if (errMsg.includes('permission') || errMsg.includes('denied')) {
+                    friendlyError = 'Database error: Insufficient permissions to complete the request.';
+                }
+
                 // Update Firestore status to failed to stop client-side loading
                 await db.collection('analysis_requests').doc(docId).update({
                     status: 'failed',
-                    error: error.message || 'Unknown error occurred during AI analysis'
+                    error: friendlyError
                 }).catch(err => console.error("Could not write error state back to Firestore:", err));
             }
         }

@@ -182,7 +182,7 @@ function listenToResult(docId) {
                 }
             } else if (data.status === "failed") {
                 loadingBox.style.display = 'none';
-                alert("Local engine error: " + (data.error || "Unknown error occurred"));
+                alert(data.error || "An unexpected error occurred. Please try again.");
                 resetUI();
                 
                 if (unsubscribeResult) {
