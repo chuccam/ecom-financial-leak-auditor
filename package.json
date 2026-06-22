@@ -1,0 +1,14 @@
+{
+  "name": "hybrid-saas-auditor",
+  "version": "1.0.0",
+  "description": "AI-Powered E-commerce Financial Leak Auditor (Hybrid SaaS Model)",
+  "main": "engine.js",
+  "scripts": {
+    "start": "node engine.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.2.1",
+    "dotenv": "^16.4.5",
+    "firebase-admin": "^12.0.0"
+  }
+}

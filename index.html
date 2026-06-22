@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Global E-com AI Auditor - Hybrid SaaS</title>
+    <meta name="description" content="AI-Powered E-commerce Financial Leak Auditor. Inspect your Shopify, TikTok Shop, or Shopee report safely.">
+    <!-- Papaparse CDN to parse CSV files locally -->
+    <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js" id="lib-papaparse"></script>
+    <link rel="stylesheet" href="style.css" id="theme-style">
+</head>
+<body>
+    <div class="container" id="app-container">
+        <header id="app-header">
+            <span class="badge" id="app-status-badge">Hybrid SaaS Engine</span>
+            <h1 id="app-main-title">E-commerce Financial Auditor</h1>
+            <p id="app-description">Analyze hidden financial leaks from your TikTok Shop/Shopify/Shopee CSV reports using AI running on your local machine.</p>
+        </header>
+
+        <!-- Unauthenticated state -->
+        <div class="btn-container" id="login-container">
+            <button id="btn-login" class="btn btn-google">
+                <svg viewBox="0 0 24 24" width="24" height="24" xmlns="http://www.w3.org/2000/svg">
+                    <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                        <path d="M21.35,11.1H12v2.7h5.38c-0.24,1.28 -0.96,2.37 -2.04,3.1v2.58h3.3c1.93,-1.78 3.04,-4.4 3.04,-7.38C21.68,11.78 21.56,11.43 21.35,11.1z" fill="#4285F4"/>
+                        <path d="M12,20.8c2.38,0 4.38,-0.78 5.84,-2.13l-3.3,-2.58c-0.92,0.62 -2.1,0.98 -3.54,0.98 -2.72,0 -5.02,-1.83 -5.84,-4.3H1.72v2.66C3.2,18.4 7.27,20.8 12,20.8z" fill="#34A853"/>
+                        <path d="M6.16,12.77C5.96,12.17 5.84,11.53 5.84,10.9c0,-0.63 0.12,-1.27 0.32,-1.87V6.37H1.72C1.04,7.73 0.65,9.27 0.65,10.9c0,1.63 0.39,3.17 1.07,4.53L6.16,12.77z" fill="#FBBC05"/>
+                        <path d="M12,4.82c1.3,0 2.46,0.45 3.38,1.33l2.53,-2.53C16.37,2.16 14.37,1 12,1 7.27,1 3.2,3.4 1.72,6.37l4.44,3.44C6.98,6.54 9.28,4.82 12,4.82z" fill="#EA4335"/>
+                    </g>
+                </svg>
+                Sign in with Google
+            </button>
+        </div>
+
+        <!-- Authenticated state -->
+        <div id="workspace-container" style="display: none;">
+            <div class="user-panel" id="user-panel">
+                <div class="user-info" id="user-info">
+                    <img id="user-avatar" class="user-avatar" src="" alt="User Avatar">
+                    <div class="user-details">
+                        <span id="user-name" class="user-name">Loading...</span>
+                        <span id="user-email" class="user-email">Loading...</span>
+                    </div>
+                </div>
+                <button id="btn-logout" class="btn-logout">Sign Out</button>
+            </div>
+
+            <!-- Upload Zone -->
+            <div id="upload-zone" class="upload-zone">
+                <svg class="upload-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M7 16a4 4 0 01-.88-7.903A5 5 0 1115.9 6L16 6a5 5 0 011 9.9M15 13l-3-3m0 0l-3 3m3-3v12"></path>
+                </svg>
+                <div class="upload-text" id="upload-text">Drag & drop your Shopify/TikTok Shop/Shopee CSV file here</div>
+                <div class="upload-sub" id="upload-sub">or click to browse files from your computer</div>
+                <input type="file" id="file-input" accept=".csv" style="display: none;">
+            </div>
+        </div>
+
+        <!-- Loading spinner when engine is processing -->
+        <div id="loading-box" class="loading-box">
+            <div class="spinner" id="loading-spinner"></div>
+            <div class="loading-title" id="loading-title">Local Engine Processing...</div>
+            <div class="loading-desc" id="loading-desc">Running the analysis pipeline on your local computer via Firestore.</div>
+        </div>
+
+        <!-- Audit report results -->
+        <div id="result-box" class="result-box">
+            <div class="result-header" id="result-header">
+                <div class="result-title" id="result-title">Audit Results</div>
+                <span class="result-badge" id="result-status-badge">Completed</span>
+            </div>
+            <div class="result-content" id="result-content">
+                <!-- AI analysis output goes here -->
+            </div>
+            <div class="result-actions" id="result-actions">
+                <button id="btn-reset" class="btn btn-secondary">Analyze another file</button>
+            </div>
+        </div>
+    </div>
+
+    <footer id="app-footer">
+        <p>&copy; 2026 E-commerce Financial Leak Auditor. All your data is kept 100% secure on your local machine.</p>
+    </footer>
+
+    <!-- Firebase App & Firestore Client module -->
+    <script type="module" src="app.js" id="script-app"></script>
+</body>
+</html>
