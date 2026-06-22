@@ -171,8 +171,8 @@ function listenToResult(docId) {
                 loadingBox.style.display = 'none';
                 resultBox.style.display = 'block';
                 
-                // Format markdown response and display
-                const formattedResult = formatMarkdown(data.result);
+                // Format markdown response using marked.js and display
+                const formattedResult = marked.parse(data.result);
                 resultContent.innerHTML = formattedResult;
                 
                 // Unsubscribe once done
@@ -214,31 +214,4 @@ function resetUI() {
     } else {
         workspaceContainer.style.display = 'none';
     }
-}
-
-// Basic markdown format helper
-function formatMarkdown(text) {
-    if (!text) return "";
-    
-    let html = text;
-    
-    // Bold tags
-    html = html.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
-    
-    // Line breaks & list bullets
-    html = html.split('\n').map(line => {
-        line = line.trim();
-        if (line.startsWith('*') || line.startsWith('-')) {
-            return `<li>${line.substring(1).trim()}</li>`;
-        }
-        return line ? `<p>${line}</p>` : '';
-    }).join('');
-    
-    // Group li elements inside ul
-    if (html.includes('<li>')) {
-        html = html.replace(/(<li>.*?<\/li>)/g, '<ul>$1</ul>');
-        html = html.replace(/<\/ul><ul>/g, ''); 
-    }
-
-    return html;
 }
