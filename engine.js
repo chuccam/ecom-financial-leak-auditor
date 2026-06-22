@@ -212,7 +212,7 @@ function runLocalAudit(rawDataText) {
 
 async function analyzeDataWithAI(auditReport) {
     const model = ai.getGenerativeModel({ 
-        model: "gemini-2.5-flash-lite",
+        model: "gemini-1.5-flash",
         systemInstruction: `You are a Senior E-commerce Financial Auditor. Analyze the pre-processed financial audit data provided by our server algorithms.
 Your role is to translate these raw calculations and leak findings into a highly professional executive report in Markdown format.
 
